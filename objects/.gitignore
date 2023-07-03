@@ -1,0 +1,11 @@
+# Ignore everything
+*
+# But these files
+!.gitignore
+# And these filetypes
+!*.jpg
+!*.png
+!*.svg
+!*.pdf
+# Even if they are in subdirectories
+!*/

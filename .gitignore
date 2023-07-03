@@ -1,0 +1,11 @@
+# Ignore everything
+*
+# But these files
+!.gitignore
+!LICENSE
+!README.md
+# And these filetypes
+!*.pdf
+# And these subdirectories
+!maps/
+!objects/
