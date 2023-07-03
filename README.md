@@ -24,7 +24,7 @@ Repository for the 2023 RoboCup@Home in Bordeaux, France
 
 ## Mapping Slots
 
-### 2023.07.04 (Tue)
+### 2023.07.04 (Tue) — Slots 1 & 2
 
 |   Time Slot   |     Arena A     |     Arena B     |     Arena C     |
 |:-------------:|:---------------:|:---------------:|:---------------:|
@@ -59,7 +59,7 @@ Repository for the 2023 RoboCup@Home in Bordeaux, France
 Teams are not allowed to monopolize arenas outside the scheduled times.
 
 
-### 2023.07.05 (Wed)
+### 2023.07.05 (Wed) — Unique slot
 
 |   Time Slot   |     Arena A     |     Arena B     |     Arena C     |
 |:-------------:|:---------------:|:---------------:|:---------------:|
@@ -144,7 +144,7 @@ Teams are not allowed to monopolize arenas outside the scheduled times.
 | Simone       | Simone      |
 
 
-Note: Gender-neutral names were ambigously chosen on purpose.
+**Note:** Gender-neutral names were ambigously chosen on purpose.
 
 
 

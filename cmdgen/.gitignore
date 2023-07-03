@@ -2,11 +2,11 @@
 *
 # But these files
 !.gitignore
-!LICENSE
-!README.md
 # And these filetypes
-!*.pdf
+!*.xml
+!*.exe
+!*.dll
 # And these subdirectories
-!cmdgen/
-!maps/
-!objects/
+!egpsr_grammars/*.txt
+!gpsr_grammars/*.txt
+

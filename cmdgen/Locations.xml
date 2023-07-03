@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  This is an DRAFT/EXAMPLE file for testing the generators.
+  The real information used in Bordeaux 2023 will be published
+  and distributed by the Organizing Committee during Setup days
+//-->
+<rooms>
+  <room name="corridor">
+    <location name="entrance" isBeacon="true" />
+    <location name="exit" isBeacon="true" />
+  </room>
+  <room name="bedroom">
+    <location name="bed" isBeacon="true" />
+    <location name="night table" isPlacement="true" />
+    <location name="desk" isBeacon="true" isPlacement="true" />
+  </room>
+  <room name="dining room">
+    <location name="dining table" isBeacon="true" isPlacement="true" />
+  </room>
+  <room name="living room">
+    <location name="exit" isBeacon="true" />
+    <location name="couch" isBeacon="true" />
+    <location name="end table" isBeacon="true" isPlacement="true" />
+    <location name="bookcase" isPlacement="true" isBeacon="true" />
+  </room>
+  <room name="kitchen">
+    <location name="cupboard" isPlacement="true" />
+    <location name="storage table" isPlacement="true" />
+    <location name="sink" isBeacon="true" isPlacement="true" />
+    <location name="counter" isPlacement="true" />
+    <location name="dishwasher" isBeacon="true" />
+  </room>
+</rooms>
+
+

@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  This is an DRAFT/EXAMPLE file for testing the generators.
+  The real information used in Bordeaux 2023 will be published
+  and distributed by the Organizing Committee during Setup days
+//-->
+<questions>
+
+  <question>
+    <q>Do french like snails?</q>
+    <a>The French eat around 30,000 tons of snails a year.</a>
+  </question>
+
+  <question>
+    <q>Would you mind me kissing you on a train?</q>
+    <a>I would. French law forbids couples from kissing on train platforms.</a>
+  </question>
+
+  <question>
+    <q>Which French king ruled the least?</q>
+    <a>Louis XIX was the king of France for just 20 minutes, the shortest ever reign.</a>
+  </question>
+
+  <question>
+    <q>What's the busiest train station in Europe?</q>
+    <a>Paris Gare du Nord is Europe's busiest railway station.</a>
+  </question>
+
+  <question>
+    <q>Which is the highest mountain in Europe?</q>
+    <a>The highest mountain in Europe is Mont Blank in the French Alps.</a>
+  </question>
+
+  <question>
+    <q>Which bread is most french, a croissant or a baguette?</q>
+    <a>The croissant was actually invented in Austria in the 13th century.</a>
+  </question>
+
+  <question>
+    <q>Which is the most visited museum in the wrorld?</q>
+    <a>The Louvre is the most visited museum in the world.</a>
+  </question>
+
+  <question>
+    <q>What's France's cheese production?</q>
+    <a>France produces around 1.7 million tons of cheese a year in around 1,600 varieties</a>
+  </question>
+
+  <question>
+    <q>Which 21-stage, 23-day, 2,200-mile men's bike race is held each summer and ends at the Champs-Élysées?</q>
+    <a>That would be the Tour de France.</a>
+  </question>
+
+  <question>
+    <q>France shares a land border with what country that also immediately follows it on an alphabetical list of the English names of E.U. nations?</q>
+    <a>I'm sure you're talking about Germany.</a>
+  </question>
+
+  <question>
+    <q>What colour features in the national flags of all the countries that border mainland France?</q>
+    <a>Belgium, Luxemburg, Germany, Switzerland, Italy, and Spain, all have the red color in their flags.</a>
+  </question>
+
+  <question>
+    <q>What is Vincenzo Peruggia famous for?</q>
+    <a>Vincenzo Peruggia is infamous for stealing the Mona Lisa in 1911.</a>
+  </question>
+
+  <question>
+    <q>Which airport is the biggest and busiest in France?</q>
+    <a>The Charles de Gaulle Airport.</a>
+  </question>
+
+  <question>
+    <q>Lyon, France is home to what border-spanning law enforcement agency?</q>
+    <a>Lyon, France is home to the Interpol.</a>
+  </question>
+
+  <question>
+    <q>What metallic element gets its name from France's old Latin name?</q>
+    <a>The gallium element got its name from France's old Latin name</a>
+  </question>
+
+  <question>
+    <q>Which major public square  is located at the eastern end of the Champs-Elysees</q>
+    <a>The Place De La Concorde</a>
+  </question>
+
+  <question>
+    <q>Which are the five countries that are represented at every modern Olympics since its beginning.</q>
+    <a>Australia, France, Great Britain, Greece, and Switzerland.</a>
+  </question>
+
+  <question>
+    <q>What did Napoleon said in the Waterloo battle?</q>
+    <a>I surrender.</a>
+  </question>
+
+  <question>
+    <q>In what city is the European Disney theme park located?</q>
+    <a>The European Disney theme park is located in Paris.</a>
+  </question>
+
+  <question>
+    <q>How big is a nanobot?</q>
+    <a>A nanobot is 50-100nm wide.</a>
+  </question>
+
+  <question>
+    <q>Why most computerized robot voices tend to be female?</q>
+    <a>One of the reasons is that females traditionally are lovely and caretaking.</a>
+  </question>
+
+  <question>
+    <q>Who is the world's most expensive robot?</q>
+    <a>Honda's Asimo is the most expensive robot, costing circa $2.5 million USD.</a>
+  </question>
+
+  <question>
+    <q>What is the main source of inspiration in robotics.</q>
+    <a>Nature, contributing to the field of bio-inspired robotics.</a>
+  </question>
+
+  <question>
+    <q>Who crafted the word Robot?</q>
+    <a>The czech writer Karel Čapek in his 1920's play Rossum's Universal Robots</a>
+  </question>
+
+  <question>
+    <q>What does the word Robot mean?</q>
+    <a>Labor or work. That would make me a servant.</a>
+  </question>
+
+  <question>
+    <q>Who formulated the principles of Cybernetics in 1948.</q>
+    <a>Norbert Wiener formulated the principles of Cybernetics in 1948.</a>
+  </question>
+
+  <question>
+    <q>Do you like super-hero movies?</q>
+    <a>Yes, I do. Zack Snyder's are the best and my favorite character is Cyborg.</a>
+  </question>
+
+  <question>
+    <q>What did Nikola Tesla demonstrate in 1898?</q>
+    <a>In 1898, Nikola Tesla demonstrated the first radio-controlled vessel.</a>
+  </question>
+
+  <question>
+    <q>What was developed in 1978?</q>
+    <a>The first object-level robot programming language.</a>
+  </question>
+
+  <question>
+    <q>What is the shortest path to the Dark Side?</q>
+    <a>My A-star algorithm indicates the answer is Fear. Fear leads to anger, anger leads to hate, and hate leads to suffering.</a>
+  </question>
+
+
+</questions>
