@@ -56,9 +56,27 @@ Repository for the 2023 RoboCup@Home in Bordeaux, France
 
 
 **REMARK:** Arenas are free for all during unscheduled times.
+Teams are not allowed to monopolize arenas outside the scheduled times.
 
 
 ### 2023.07.05 (Wed)
+
+|   Time Slot   |     Arena A     |     Arena B     |     Arena C     |
+|:-------------:|:---------------:|:---------------:|:---------------:|
+| 08:00 - 08:30 | SUTURO-VaB      | SCC             | LiU@HW          |
+| 08:30 - 09:00 | Austin Villa    | SocRob          | RoboBreizh      |
+| 09:00 - 09:30 | Hibikino        | LCASTOR         | SKUBA           |
+| 09:30 - 10:00 | ORIon-UTBMan    | NimbRo          | Sinfonia        |
+| 10:00 - 10:30 | eR@sers+Pumas   | EIC Chula       | LyonTech        |
+| 10:30 - 11:00 | Tidyboy-DSPL    | CATIE           |                 |
+| 11:00 - 11:30 | TRAIL           | ToBI            | Tidyboy-OPL     |
+| 11:30 - 12:00 | RoboCanes       | LAR@Home        | KameRider       |
+| 12:00 - 12:30 | Northeastern    | ButiaBots       | SOBITS          |
+| 12:30 - 13:00 | TU/e            | RoboFEI         | Gentlebots      |
+| 13:00 - 13:30 | RUNSWEEP        |                 |                 |
+
+**REMARK:** Arenas are free for all during unscheduled times.
+Teams are not allowed to monopolize arenas outside the scheduled times.
 
 
 ## Arenas
