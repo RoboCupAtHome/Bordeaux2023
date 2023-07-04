@@ -118,7 +118,7 @@ First Team Leader Meeting at 15:00 in the DSPL Arena. Bring your own chair.
 
 
 ### Arena Map
-![](https://github.com/RoboCupAtHome/Bordeaux2023/blob/master/maps/arena.png)
+![](https://github.com/RoboCupAtHome/Bordeaux2023/blob/master/maps/arena.png?)
 
 1) bed
 2) bedside table
