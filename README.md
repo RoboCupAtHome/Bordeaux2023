@@ -120,6 +120,31 @@ First Team Leader Meeting at 15:00 in the DSPL Arena. Bring your own chair.
 ### Arena Map
 ![](https://github.com/RoboCupAtHome/Bordeaux2023/blob/master/maps/arena.png)
 
+1) bed
+2) bedside table
+3) shelf
+4) trashbin
+5) dishwasher
+6) plant (in pot)
+7) kitchen table
+8) chairs
+9) shelf
+10) refrigerator
+11) sink
+12) cabinet
+13) coatrack
+14) desk
+15) armchair
+16) desk lamp
+17) waste basket
+18) tv cabinet
+19) shelf
+20) lamp
+21) sofa tables
+22) sofa
+23) shelf
+
+
 
 ## Names
 | Female Names | Male Names  |
