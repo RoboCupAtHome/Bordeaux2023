@@ -24,7 +24,20 @@ First Team Leader Meeting at 15:00 in the DSPL Arena. Bring your own chair.
 
 ## Schedule
 
+### Arena OPL Mappig Slots
 
+| Team Name (OPL) | Arena |
+|-----------|-------|
+| NimbRo@Home (University of Bonn, Germany)	|	OPL | 20:00 |
+| EIC Chula(Chulalongkorn University, Thailand)	|	OPL | 20:10 |
+|SOBITS(Soka University of Japan, Japan) 	|	OPL | 20:20 |
+|CATIE Robotics (CATIE, France)	|	OPL| 20:30 |
+|Gentlebots (Universidad Rey Juan Carlos / Universidad de León, Spain) |	OPL | 20:40 |
+|Tidyboy-OPL(Pusan National University / Seoul National University, South Korea)	|	OPL | 20:50 |
+|LCASTOR(University of Lincoln, United Kingdom)	|	OPL| 21:00 |
+|LyonTech (CPE Lyon, INSA Lyon / INRIA / CHROMA, FRANCE)	|	OPL | 21:10 |
+|Team of Bielefeld (ToBi) (Bielefeld University, Germany)	|	OPL | 21:20 |
+|LAR@Home (University of Minho, Portugal)	|	OPL | 21:30 |
 
 ## Arenas
 
