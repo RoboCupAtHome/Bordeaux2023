@@ -26,50 +26,50 @@ First Team Leader Meeting at 15:00 in the DSPL Arena. Bring your own chair.
 
 ### Arena OPL Mappig Slots
 
-| Team Name (OPL) | Arena | Tue July 4 |
-|-----------|-------|------|
-| NimbRo@Home (University of Bonn, Germany)	|	OPL | 20:00 |
-| EIC Chula(Chulalongkorn University, Thailand)	|	OPL | 20:10 |
-|SOBITS(Soka University of Japan, Japan) 	|	OPL | 20:20 |
-|CATIE Robotics (CATIE, France)	|	OPL| 20:30 |
-|Gentlebots (Universidad Rey Juan Carlos / Universidad de León, Spain) |	OPL | 20:40 |
-|Tidyboy-OPL(Pusan National University / Seoul National University, South Korea)	|	OPL | 20:50 |
-|LCASTOR(University of Lincoln, United Kingdom)	|	OPL| 21:00 |
-|LyonTech (CPE Lyon, INSA Lyon / INRIA / CHROMA, FRANCE)	|	OPL | 21:10 |
-|Team of Bielefeld (ToBi) (Bielefeld University, Germany)	|	OPL | 21:20 |
-|LAR@Home (University of Minho, Portugal)	|	OPL | 21:30 |
+| Team Name (OPL) | Arena | Tue July 4 | Wed July 5 |
+|-----------|-------|------|----|
+| NimbRo@Home (University of Bonn, Germany)	|	OPL | 20:00 | 09:00 |
+| EIC Chula(Chulalongkorn University, Thailand)	|	OPL | 20:10 | 09:10 |
+|SOBITS(Soka University of Japan, Japan) 	|	OPL | 20:20 | 09:20 |
+|CATIE Robotics (CATIE, France)	|	OPL| 20:30 | 09:30 |
+|Gentlebots (Universidad Rey Juan Carlos / Universidad de León, Spain) |	OPL | 20:40 | 09:40 |
+|Tidyboy-OPL(Pusan National University / Seoul National University, South Korea)	|	OPL | 20:50 | 09:50 |
+|LCASTOR(University of Lincoln, United Kingdom)	|	OPL| 21:00 | 10:00 |
+|LyonTech (CPE Lyon, INSA Lyon / INRIA / CHROMA, FRANCE)	|	OPL | 21:10 | 10:10 |
+|Team of Bielefeld (ToBi) (Bielefeld University, Germany)	|	OPL | 21:20 | 10:20 |
+|LAR@Home (University of Minho, Portugal)	|	OPL | 21:30 | 10:30 |
 
 
 ### Arena SSPL/OPL Mappig Slots
 
-| Team Name (SSPL/OPL) | Arena | Tue July 4 |
-|-----------|-------|------|
-| LiU@HomeWreckers (Linköping University, Sweden) | SSPL/OPL | 20:00 |
-| RoboBreizh (CNRS/LAB-STICC/LITIS, France/Australia) | SSPL/OPL | 20:10 |
-| Sinfonia Uniandes (Universidad de los Andes, Colombia) | SSPL/OPL | 20:20 |
-| SKUBA(Kasetsart University, Thailand) | SSPL/OPL | 20:30 |
-| Serious Cybernetics Corporation (SCC)(Ravensburg Weingarten U.a.S., Germany)	|	SSPL/OPL | 20:40 |
-| SocRob@Home (Institute for Systems and Robotics/Instituto Superior Técnico, Portugal)	 |	SSPL/OPL | 20:50 |
-| KameRider OPL(MyEdu-UTAR, Malaysia)	|	SSPL/OPL | 21:00 |
-| ButiaBots(Universidade Federal do Rio Grande, Brazil)	|	SSPL/OPL | 21:10 |
-| RoboFEI@Home(FEI University Center, Brazil)	|	SSPL/OPL | 21:20 |
+| Team Name (SSPL/OPL) | Arena | Tue July 4 | Wed July 5 |
+|-----------|-------|------|----|
+| LiU@HomeWreckers (Linköping University, Sweden) | SSPL/OPL | 20:00 |  09:00 |
+| RoboBreizh (CNRS/LAB-STICC/LITIS, France/Australia) | SSPL/OPL | 20:10 |  09:10 |
+| Sinfonia Uniandes (Universidad de los Andes, Colombia) | SSPL/OPL | 20:20 |  09:20 |
+| SKUBA(Kasetsart University, Thailand) | SSPL/OPL | 20:30 |  09:30 |
+| Serious Cybernetics Corporation (SCC)(Ravensburg Weingarten U.a.S., Germany)	|	SSPL/OPL | 20:40 | 09:40 |
+| SocRob@Home (Institute for Systems and Robotics/Instituto Superior Técnico, Portugal)	 |	SSPL/OPL | 20:50 | 09:50 |
+| KameRider OPL(MyEdu-UTAR, Malaysia)	|	SSPL/OPL | 21:00 | 10:00 |
+| ButiaBots(Universidade Federal do Rio Grande, Brazil)	|	SSPL/OPL | 21:10 | 10:10 |
+| RoboFEI@Home(FEI University Center, Brazil)	|	SSPL/OPL | 21:20 | 10:20 |
 
 
 ### Arena DSPL Mappig Slots
 
-| Team Name (SSPL/OPL) | Arena | Tue July 4 |
-|-----------|-------|------|
-| Team ORIon-UTBMan (University of Oxford/University of Technology of Belfort-Montebeliard, UK/France) | DSPL | 20:00 |
-| eR@sers+Pumas (Tamagawa University / UNAM, Japan / Mexico)  | DSPL | 20:10 |
-| RoboCanes-VISAGE (University of Miami, USA)  | DSPL | 20:20 |
-| Tech United Eindhoven (Eindhoven University of Technology, The Netherlands)  | DSPL | 20:30 |
-| RUNSWEEP (UNSW Sydney, Australia)  | DSPL | 20:40 |
-| Tidyboy-DSPL (Seoul National University/Pusan National University, South Korea)  | DSPL | 20:50 |
-| Hibikino-Musashi@Home (Kyushu Institute of Technology / University of Kitakyushu, Japan)  | DSPL | 21:00 |
-| TRAIL (The University of Tokyo, JAPAN)  | DSPL | 21:10 |
-| Team Northeastern (Northeastern University, USA)  | DSPL | 21:20 |
-| SUTURO-VaB (Universität Bremen / Universität Vienna, Germany / Austria)  | DSPL | 21:30 |
-| UT Austin Villa@Home (University of Texas at Austin, USA)  | DSPL | 21:40 |
+| Team Name (SSPL/OPL) | Arena | Tue July 4 | Wed July 5 |
+|-----------|-------|------|----|
+| Team ORIon-UTBMan (University of Oxford/University of Technology of Belfort-Montebeliard, UK/France) | DSPL | 20:00 |  09:00 | 
+| eR@sers+Pumas (Tamagawa University / UNAM, Japan / Mexico)  | DSPL | 20:10 | 09:10 |
+| RoboCanes-VISAGE (University of Miami, USA)  | DSPL | 20:20 | 09:20 |
+| Tech United Eindhoven (Eindhoven University of Technology, The Netherlands)  | DSPL | 20:30 | 09:30 |
+| RUNSWEEP (UNSW Sydney, Australia)  | DSPL | 20:40 | 09:40 |
+| Tidyboy-DSPL (Seoul National University/Pusan National University, South Korea)  | DSPL | 20:50 | 09:50 |
+| Hibikino-Musashi@Home (Kyushu Institute of Technology / University of Kitakyushu, Japan)  | DSPL | 21:00 | 10:00 |
+| TRAIL (The University of Tokyo, JAPAN)  | DSPL | 21:10 | 10:10 |
+| Team Northeastern (Northeastern University, USA)  | DSPL | 21:20 | 10:20 |
+| SUTURO-VaB (Universität Bremen / Universität Vienna, Germany / Austria)  | DSPL | 21:30 | 10:30 |
+| UT Austin Villa@Home (University of Texas at Austin, USA)  | DSPL | 21:40 | 10:40 |
 
 
 ## Arenas
