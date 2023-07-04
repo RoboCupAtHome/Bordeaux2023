@@ -136,7 +136,7 @@ First Team Leader Meeting at 15:00 in the DSPL Arena. Bring your own chair.
 16) desk lamp
 17) waste basket
 18) tv stand
-19) shelf
+19) storage rack
 20) lamp
 21) side tables
 22) sofa
