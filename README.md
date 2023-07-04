@@ -57,7 +57,7 @@ First Team Leader Meeting at 15:00 in the DSPL Arena. Bring your own chair.
 
 ### Arena DSPL Mappig Slots
 
-| Team Name (SSPL/OPL) | Arena | Tue July 4 | Wed July 5 |
+| Team Name (DSPL) | Arena | Tue July 4 | Wed July 5 |
 |-----------|-------|------|----|
 | Team ORIon-UTBMan (University of Oxford/University of Technology of Belfort-Montebeliard, UK/France) | DSPL | 20:00 |  09:00 | 
 | eR@sers+Pumas (Tamagawa University / UNAM, Japan / Mexico)  | DSPL | 20:10 | 09:10 |
