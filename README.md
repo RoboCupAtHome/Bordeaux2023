@@ -39,6 +39,24 @@ First Team Leader Meeting at 15:00 in the DSPL Arena. Bring your own chair.
 |Team of Bielefeld (ToBi) (Bielefeld University, Germany)	|	OPL | 21:20 |
 |LAR@Home (University of Minho, Portugal)	|	OPL | 21:30 |
 
+
+### Arena SSPL/OPL Mappig Slots
+
+| Team Name (SSPL/OPL) | Arena | Tue July 4 |
+|-----------|-------|------|
+| LiU@HomeWreckers (Linköping University, Sweden) | SSPL/OPL | 20:00 |
+| RoboBreizh (CNRS/LAB-STICC/LITIS, France/Australia) | SSPL/OPL | 20:10 |
+| Sinfonia Uniandes (Universidad de los Andes, Colombia) | SSPL/OPL | 20:20 |
+| SKUBA(Kasetsart University, Thailand) | SSPL/OPL | 20:30 |
+| Serious Cybernetics Corporation (SCC)(Ravensburg Weingarten U.a.S., Germany)	|	SSPL/OPL | 20:40 |
+| SocRob@Home (Institute for Systems and Robotics/Instituto Superior Técnico, Portugal)	 |	SSPL/OPL | 20:50 |
+| KameRider OPL(MyEdu-UTAR, Malaysia)	|	SSPL/OPL | 21:00 |
+| ButiaBots(Universidade Federal do Rio Grande, Brazil)	|	SSPL/OPL | 21:10 |
+| RoboFEI@Home(FEI University Center, Brazil)	|	SSPL/OPL | 21:20 |
+
+
+
+
 ## Arenas
 
 ### OPL Teams
