@@ -28,6 +28,7 @@ First Team Leader Meeting at 15:00 in the DSPL Arena. Bring your own chair.
 
 ## Arenas
 
+### OPL Teams
 | Team Name (OPL) | Arena |
 |-----------|-------|
 | NimbRo@Home (University of Bonn, Germany)	|	OPL |
@@ -46,6 +47,7 @@ First Team Leader Meeting at 15:00 in the DSPL Arena. Bring your own chair.
 |ButiaBots(Universidade Federal do Rio Grande, Brazil)	|	SSPL/OPL |
 |RoboFEI@Home(FEI University Center, Brazil)	|	SSPL/OPL |
 
+### DSPL Teams
 | Team Name (DSPL) | Arena |
 |-----------|-------|
 | eR@sers+Pumas (Tamagawa University / UNAM, Japan / Mexico) | DSPL |
@@ -60,7 +62,7 @@ First Team Leader Meeting at 15:00 in the DSPL Arena. Bring your own chair.
 | TRAIL (The University of Tokyo, JAPAN)| DSPL |
 |UT Austin Villa@Home (University of Texas at Austin, USA)| DSPL |
 
-
+### SSPL Teams
 | Team Name (SSPL) | Arena |
 |-----------|-------|
 |LiU@HomeWreckers (Linköping University, Sweden)|OPL/SSPL|
