@@ -1,6 +1,8 @@
 # Bordeaux2023
 Repository for the 2023 RoboCup@Home in Bordeaux, France
 
+The following schedules are just a draft. They will be finalized later on Tue July 4, 2023!
+
 ## Table of Contents
 
 - [Scores](#scores)
