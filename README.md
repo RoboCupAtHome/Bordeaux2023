@@ -55,7 +55,7 @@ First Team Leader Meeting at 15:00 in the DSPL Arena. Bring your own chair.
 | RoboFEI@Home(FEI University Center, Brazil)	|	SSPL/OPL | 21:20 |
 
 
-### Arena SSPL/OPL Mappig Slots
+### Arena DSPL Mappig Slots
 
 | Team Name (SSPL/OPL) | Arena | Tue July 4 |
 |-----------|-------|------|
