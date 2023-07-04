@@ -125,10 +125,10 @@ First Team Leader Meeting at 15:00 in the DSPL Arena. Bring your own chair.
 3) shelf
 4) trashbin
 5) dishwasher
-6) plant (in pot)
+6) potted plant
 7) kitchen table
 8) chairs
-9) shelf
+9) pantry
 10) refrigerator
 11) sink
 12) cabinet
@@ -137,12 +137,12 @@ First Team Leader Meeting at 15:00 in the DSPL Arena. Bring your own chair.
 15) armchair
 16) desk lamp
 17) waste basket
-18) tv cabinet
+18) tv stand
 19) shelf
 20) lamp
-21) sofa tables
+21) side tables
 22) sofa
-23) shelf
+23) bookshelf
 
 
 
