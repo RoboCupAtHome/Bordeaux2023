@@ -55,6 +55,21 @@ First Team Leader Meeting at 15:00 in the DSPL Arena. Bring your own chair.
 | RoboFEI@Home(FEI University Center, Brazil)	|	SSPL/OPL | 21:20 |
 
 
+### Arena SSPL/OPL Mappig Slots
+
+| Team Name (SSPL/OPL) | Arena | Tue July 4 |
+|-----------|-------|------|
+| Team ORIon-UTBMan (University of Oxford/University of Technology of Belfort-Montebeliard, UK/France) | DSPL | 20:00 |
+| eR@sers+Pumas (Tamagawa University / UNAM, Japan / Mexico)  | DSPL | 20:10 |
+| RoboCanes-VISAGE (University of Miami, USA)  | DSPL | 20:20 |
+| Tech United Eindhoven (Eindhoven University of Technology, The Netherlands)  | DSPL | 20:30 |
+| RUNSWEEP (UNSW Sydney, Australia)  | DSPL | 20:40 |
+| Tidyboy-DSPL (Seoul National University/Pusan National University, South Korea)  | DSPL | 20:50 |
+| Hibikino-Musashi@Home (Kyushu Institute of Technology / University of Kitakyushu, Japan)  | DSPL | 21:00 |
+| TRAIL (The University of Tokyo, JAPAN)  | DSPL | 21:10 |
+| Team Northeastern (Northeastern University, USA)  | DSPL | 21:20 |
+| SUTURO-VaB (Universität Bremen / Universität Vienna, Germany / Austria)  | DSPL | 21:30 |
+| UT Austin Villa@Home (University of Texas at Austin, USA)  | DSPL | 21:40 |
 
 
 ## Arenas
