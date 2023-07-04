@@ -26,8 +26,8 @@ First Team Leader Meeting at 15:00 in the DSPL Arena. Bring your own chair.
 
 ### Arena OPL Mappig Slots
 
-| Team Name (OPL) | Arena |
-|-----------|-------|
+| Team Name (OPL) | Arena | Tue July 4 |
+|-----------|-------|------|
 | NimbRo@Home (University of Bonn, Germany)	|	OPL | 20:00 |
 | EIC Chula(Chulalongkorn University, Thailand)	|	OPL | 20:10 |
 |SOBITS(Soka University of Japan, Japan) 	|	OPL | 20:20 |
