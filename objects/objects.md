@@ -23,7 +23,6 @@
 | milk  |  ![](objects/drinks/milk.JPG) |
 | iced_tea  |  ![](objects/drinks/iced_tea.JPG) |
 | orange_juice  |  ![](objects/drinks/orange_juice.JPG) |
-| nesquik  |  ![](objects/drinks/nesquik.JPG) |
 
 
 # Class food
