@@ -28,7 +28,7 @@ First Team Leader Meeting at 15:00 in the DSPL Arena. Bring your own chair.
 
 ## Arenas
 
-| Team Name | Arena |
+| Team Name (OPL) | Arena |
 |-----------|-------|
 | NimbRo@Home (University of Bonn, Germany)	|	OPL |
 | EIC Chula(Chulalongkorn University, Thailand)	|	OPL |
@@ -45,6 +45,28 @@ First Team Leader Meeting at 15:00 in the DSPL Arena. Bring your own chair.
 |KameRider OPL(MyEdu-UTAR, Malaysia)	|	SSPL/OPL |
 |ButiaBots(Universidade Federal do Rio Grande, Brazil)	|	SSPL/OPL |
 |RoboFEI@Home(FEI University Center, Brazil)	|	SSPL/OPL |
+
+| Team Name (DSPL) | Arena |
+|-----------|-------|
+| eR@sers+Pumas (Tamagawa University / UNAM, Japan / Mexico) | DSPL |
+| Hibikino-Musashi@Home (Kyushu Institute of Technology / University of Kitakyushu, Japan)| DSPL |
+| RoboCanes-VISAGE (University of Miami, USA)| DSPL |
+| RUNSWEEP (UNSW Sydney, Australia)| DSPL |
+| SUTURO-VaB (Universität Bremen / Universität Vienna, Germany / Austria)| DSPL |
+| Team Northeastern (Northeastern University, USA)| DSPL |
+| Team ORIon-UTBMan (University of Oxford/University of Technology of Belfort-Montebeliard, UK/France)| DSPL |
+| Tech United Eindhoven (Eindhoven University of Technology, The Netherlands)| DSPL |
+| Tidyboy-DSPL (Seoul National University/Pusan National University, South Korea)| DSPL |
+| TRAIL (The University of Tokyo, JAPAN)| DSPL |
+|UT Austin Villa@Home (University of Texas at Austin, USA)| DSPL |
+
+
+| Team Name (SSPL) | Arena |
+|-----------|-------|
+|LiU@HomeWreckers (Linköping University, Sweden)|OPL/SSPL|
+|RoboBreizh (CNRS/LAB-STICC/LITIS, France/Australia)|OPL/SSPL|
+|Sinfonia Uniandes (Universidad de los Andes, Colombia)|OPL/SSPL|
+|SKUBA(Kasetsart University, Thailand)|OPL/SSPL|
 
 
 ### Arena Map
