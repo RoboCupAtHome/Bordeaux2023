@@ -1,8 +1,6 @@
 # Bordeaux2023
 Repository for the 2023 RoboCup@Home in Bordeaux, France
 
-The following schedules are just a draft. They will be finalized later on Tue July 4, 2023!
-
 First Team Leader Meeting at 15:00 in the DSPL Arena. Bring your own chair.
 
 ## Table of Contents
