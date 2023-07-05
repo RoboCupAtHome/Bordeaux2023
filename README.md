@@ -16,6 +16,7 @@ First Team Leader Meeting at 15:00 in the DSPL Arena. Bring your own chair.
     + [SSPL Teams](#sspl-teams)
     + [Arena Map](#arena-map)
 - [Names](#names)
+- [Assigned Locations](#assigned-locations)
 - [Robot Inspection and Poster Session](#robot-inspection-and-poster-session)
 - [Stage 1](#stage-1)
     + [Receptionist](#receptionist)
@@ -242,6 +243,15 @@ First Team Leader Meeting at 15:00 in the DSPL Arena. Bring your own chair.
 | Paris        | Paris       |
 | Robin        | Robin       |
 | Simone       | Simone      |
+
+## Assigned Locations
+Cleaning Supplies: shelf
+Drinks: cabinet
+Food: pantry
+Fruits: desk
+Toys: bookshelf
+Snacks: side tables
+Dishes: kitchen table
 
 
 **Note:** Gender-neutral names were ambigously chosen on purpose.
