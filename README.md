@@ -25,6 +25,7 @@ First Team Leader Meeting at 15:00 in the DSPL Arena. Bring your own chair.
     + [Serve Breakfast](#serve-breakfast)
     + [GPSR](#gpsr)
 - [Stage 2](#stage-2)
+    + [Clean the Table](#clean-the-table)
 
 ## Scores
 
@@ -350,7 +351,7 @@ Due to the ramps, starting points for carry my luggage will be outside the arena
 
 ![](https://github.com/RoboCupAtHome/Bordeaux2023/blob/master/maps/carry_my_luggage.png?)
 
-Possible bags for Carry my Luggage. Available for traning at OC table.
+Possible bags for Carry my Luggage. Available for training at OC table.
 
 ![](https://github.com/RoboCupAtHome/Bordeaux2023/blob/master/objects/carry_my_luggage1.jpg?)
 
@@ -367,5 +368,10 @@ Teams will be allowed to pick a surface in the kitchen from where to grasp all t
 ![](https://github.com/RoboCupAtHome/Bordeaux2023/blob/master/maps/gpsr.png?)
 
 ## Stage 2
+
+### Clean the Table
+Dishwasher tablet for Clean the Table. Available for training at OC table.
+
+![](https://github.com/RoboCupAtHome/Bordeaux2023/blob/master/objects/dishwashertab.jpg?)
 
 
