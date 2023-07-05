@@ -19,6 +19,7 @@ First Team Leader Meeting at 15:00 in the DSPL Arena. Bring your own chair.
 - [Robot Inspection and Poster Session](#robot-inspection-and-poster-session)
 - [Stage 1](#stage-1)
     + [Receptionist](#receptionist)
+    + [Storing Groceries](#storing-groceries)
 - [Stage 2](#stage-2)
 
 ## Scores
@@ -244,6 +245,12 @@ First Team Leader Meeting at 15:00 in the DSPL Arena. Bring your own chair.
 
 ### Receptionist
 ![](https://github.com/RoboCupAtHome/Bordeaux2023/blob/master/maps/receptionist.png?)
+
+### Storing Groceries
+![](https://github.com/RoboCupAtHome/Bordeaux2023/blob/master/maps/storing_groceries.png?)
+
+The side tables will be used as tables
+The pantry will be used as cabinet
 
 ## Stage 2
 
