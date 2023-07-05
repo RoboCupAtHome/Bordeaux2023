@@ -20,6 +20,7 @@ First Team Leader Meeting at 15:00 in the DSPL Arena. Bring your own chair.
 - [Stage 1](#stage-1)
     + [Receptionist](#receptionist)
     + [Storing Groceries](#storing-groceries)
+    + [Carry my Luggage](#carry-my-luggage)
 - [Stage 2](#stage-2)
 
 ## Scores
