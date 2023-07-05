@@ -46,7 +46,7 @@ First Team Leader Meeting at 15:00 in the DSPL Arena. Bring your own chair.
 |17:00| Poster / Robot Inspection | Carry my luggage | Clean the Table | | |
 |18:00|  | Carry my luggage | Clean the Table | | |
 |19:00| Team-Leader Meeting| Carry my luggage | | | |
-|20:00| | Team-Leader Meeting | | | |
+|20:00| Reception (bring your own stuff) | Team-Leader Meeting | | | |
 
 ### Test Schedule July 6 (OPL Arena)
 
