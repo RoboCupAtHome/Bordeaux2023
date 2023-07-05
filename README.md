@@ -30,17 +30,17 @@ First Team Leader Meeting at 15:00 in the DSPL Arena. Bring your own chair.
 
 |     | Wed July 5 | Thu July 6 | Fri July 7 | Sat July 8 | Sun July 9 |
 |-----|------------|------------|------------|------------|------------|
-|09:00| Mapping    | Carry my luggage | | | |
-|10:00| Mapping    | Carry my luggage | | | |
-|11:00| | Carry my luggage | | | |
+|09:00| Mapping    | Receptionist | | | |
+|10:00| Mapping    | Receptionist | | | |
+|11:00| | Receptioniste | | | |
 |12:00| | | | | |
-|13:00| | Receptionist | | | |
-|14:00| | Receptionist | | | |
-|15:00| | Receptionist | | | |
+|13:00| | Storing Groceries | | | |
+|14:00| | Storing Groceries  | | | |
+|15:00| | Storing Groceries  | | | |
 |16:00| Poster / Robot Inspection | | | | |
-|17:00| | Storing Groceries | | | |
-|18:00| Team-Leader Meeting | Storing Groceries | | | |
-|19:00| | Storing Groceries | | | |
+|17:00| | Carry my luggage | | | |
+|18:00| Team-Leader Meeting | Carry my luggage | | | |
+|19:00| | Carry my luggage | | | |
 |20:00| | Team-Leader Meeting | | | |
 
 ### Robot Inspection (OPL Arena)
