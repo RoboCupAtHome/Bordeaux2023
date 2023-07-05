@@ -331,6 +331,9 @@ Dishes: kitchen table
 ### Receptionist
 ![](https://github.com/RoboCupAtHome/Bordeaux2023/blob/master/maps/receptionist_new.png?)
 
+Host's favorite drink: Milk
+Host's name: John
+
 Two chairs will be added to the Party Area at roughly the indicated positions
 
 ### Storing Groceries
