@@ -372,6 +372,6 @@ Teams will be allowed to pick a surface in the kitchen from where to grasp all t
 ### Clean the Table
 Dishwasher tablet for Clean the Table. Available for training at OC table.
 
-![](https://github.com/RoboCupAtHome/Bordeaux2023/blob/master/objects/dishwashertab.jpg?)
+![](https://github.com/RoboCupAtHome/Bordeaux2023/blob/master/objects/dishwashertab.JPG?)
 
 
