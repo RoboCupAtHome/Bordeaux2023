@@ -27,6 +27,83 @@ First Team Leader Meeting at 15:00 in the DSPL Arena. Bring your own chair.
 
 ## Schedule
 
+|     | Wed July 5 | Thu July 6 | Fri July 7 | Sat July 8 | Sun July 9 |
+|-----|------------|------------|------------|------------|------------|
+|09:00| Mapping    | Carry my luggage | | | |
+|10:00| Mapping    | Carry my luggage | | | |
+|11:00| | Carry my luggage | | | |
+|12:00| | | | | |
+|13:00| | Receptionist | | | |
+|14:00| | Receptionist | | | |
+|15:00| | Receptionist | | | |
+|16:00| Poster / Robot Inspection | | | | |
+|17:00| | Storing Groceries | | | |
+|18:00| Team-Leader Meeting | Storing Groceries | | | |
+|19:00| | Storing Groceries | | | |
+|20:00| | Team-Leader Meeting | | | |
+
+### Robot Inspection (OPL Arena)
+
+| Wed July 5 16:00| Team Name | League | 
+|-----------|---------|----|
+|1|Team of Bielefeld (ToBi) (Bielefeld University, Germany)| OPL |
+|2|LAR@Home (University of Minho, Portugal)|
+|3|Tidyboy-OPL(Pusan National University / Seoul National University, South Korea)|OPL |
+|4|EIC Chula(Chulalongkorn University, Thailand)|OPL |
+|5|LyonTech (CPE Lyon, INSA Lyon / INRIA / CHROMA, FRANCE)|OPL |
+|6|LCASTOR(University of Lincoln, United Kingdom)|OPL |
+|7|NimbRo@Home (University of Bonn, Germany)|OPL |
+|8|SOBITS(Soka University of Japan, Japan)|OPL |
+|9|Gentlebots (Universidad Rey Juan Carlos / Universidad de León, Spain)|OPL |
+|10|CATIE Robotics (CATIE, France)|OPL |
+
+### Robot Inspection (SSPL/OPL Arena)
+
+| Wed July 5 16:00| Team Name | League | 
+|-----------|---------|----|
+|1| Sinfonia Uniandes (Universidad de los Andes, Colombia) | SSPL |
+|2| SKUBA(Kasetsart University, Thailand) | SSPL |
+|3| RoboBreizh (CNRS/LAB-STICC/LITIS, France/Australia) | SSPL |
+|4| LiU@HomeWreckers (Linköping University, Sweden) | SSPL |
+|5| KameRider OPL(MyEdu-UTAR, Malaysia) | OPL |
+|6| ButiaBots(Universidade Federal do Rio Grande, Brazil) | OPL |
+|7| RoboFEI@Home(FEI University Center, Brazil) | OPL |
+|8| Serious Cybernetics Corporation (SCC)(Ravensburg Weingarten U.a.S., Germany) | OPL |
+|9| SocRob@Home (Institute for Systems and Robotics/Instituto Superior Técnico, Portugal) | OPL |
+
+### Robot Inspection (DSPL Arena)
+
+| Wed July 5 16:00| Team Name | League | 
+|-----------|---------|----|
+|1|	Tech United Eindhoven (Eindhoven University of Technology, The Netherlands) | DSPL |
+|2|	TRAIL (The University of Tokyo, JAPAN) | DSPL |
+|3|	SUTURO-VaB (Universität Bremen / Universität Vienna, Germany / Austria) | DSPL |
+|4|	eR@sers+Pumas (Tamagawa University / UNAM, Japan / Mexico) | DSPL |
+|5|	UT Austin Villa@Home (University of Texas at Austin, USA) | DSPL |
+|6|	RUNSWEEP (UNSW Sydney, Australia) | DSPL |
+|7|	Hibikino-Musashi@Home (Kyushu Institute of Technology / University of Kitakyushu, Japan) | DSPL |
+|8|	Team ORIon-UTBMan (University of Oxford/University of Technology of Belfort-Montebeliard, UK/France) | DSPL |
+|9|	RoboCanes-VISAGE (University of Miami, USA) | DSPL |
+|10|	Tidyboy-DSPL (Seoul National University/Pusan National University, South Korea) | DSPL |
+|11|	Team Northeastern (Northeastern University, USA) | DSPL |
+
+
+### Arena OPL Mappig Slots
+
+| Team Name (OPL) | Arena | Tue July 4 | Wed July 5 |
+|-----------|-------|------|----|
+| NimbRo@Home (University of Bonn, Germany)	|	OPL | 20:00 | 09:00 |
+| EIC Chula(Chulalongkorn University, Thailand)	|	OPL | 20:10 | 09:10 |
+|SOBITS(Soka University of Japan, Japan) 	|	OPL | 20:20 | 09:20 |
+|CATIE Robotics (CATIE, France)	|	OPL| 20:30 | 09:30 |
+|Gentlebots (Universidad Rey Juan Carlos / Universidad de León, Spain) |	OPL | 20:40 | 09:40 |
+|Tidyboy-OPL(Pusan National University / Seoul National University, South Korea)	|	OPL | 20:50 | 09:50 |
+|LCASTOR(University of Lincoln, United Kingdom)	|	OPL| 21:00 | 10:00 |
+|LyonTech (CPE Lyon, INSA Lyon / INRIA / CHROMA, FRANCE)	|	OPL | 21:10 | 10:10 |
+|Team of Bielefeld (ToBi) (Bielefeld University, Germany)	|	OPL | 21:20 | 10:20 |
+|LAR@Home (University of Minho, Portugal)	|	OPL | 21:30 | 10:30 |
+
+
 ### Arena OPL Mapping Slots
 
 | Team Name (OPL) | Arena | Tue July 4 | Wed July 5 |
