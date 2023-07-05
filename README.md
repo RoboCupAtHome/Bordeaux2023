@@ -32,7 +32,7 @@ First Team Leader Meeting at 15:00 in the DSPL Arena. Bring your own chair.
 |-----|------------|------------|------------|------------|------------|
 |09:00| Mapping    | Receptionist | | | |
 |10:00| Mapping    | Receptionist | | | |
-|11:00| | Receptioniste | | | |
+|11:00| | Receptionist | | | |
 |12:00| | | | | |
 |13:00| | Storing Groceries | | | |
 |14:00| | Storing Groceries  | | | |
