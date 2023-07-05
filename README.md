@@ -250,7 +250,13 @@ First Team Leader Meeting at 15:00 in the DSPL Arena. Bring your own chair.
 ![](https://github.com/RoboCupAtHome/Bordeaux2023/blob/master/maps/storing_groceries_new.png?)
 
 The side tables will be used as tables
+
 The pantry will be used as cabinet
+
+### Carry my Luggage
+Due to the ramps, starting points for carry my luggage will be outside the arena. For this test, ALL OPL teams will have the same starting spot and SSPL+DSPL will share a starting spot. Re-enter the arena will be awarded when the robot returns to the entering area.
+
+![](https://github.com/RoboCupAtHome/Bordeaux2023/blob/master/maps/carry_my_luggage.png?)
 
 ## Stage 2
 
