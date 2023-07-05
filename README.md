@@ -14,6 +14,7 @@ First Team Leader Meeting at 15:00 in the DSPL Arena. Bring your own chair.
 - [Names](#names)
 - [Robot Inspection and Poster Session](#robot-inspection)
 - [Stage 1](#stage-1)
+    + [Receptionist](#receptionist)
 - [Stage 2](#stage-2)
 
 ## Scores
@@ -157,11 +158,12 @@ First Team Leader Meeting at 15:00 in the DSPL Arena. Bring your own chair.
 ## Robot Inspection and Poster Session
 ![](https://github.com/RoboCupAtHome/Bordeaux2023/blob/master/maps/robot_inspection.png?)
 
-![](https://github.com/RoboCupAtHome/Bordeaux2023/blob/master/maps/poster_session.png?)
+[Arena Assignment](#arena-assignment)
 
 ## Stage 1
 
-
+### Receptionist
+![](https://github.com/RoboCupAtHome/Bordeaux2023/blob/master/maps/receptionist.png?)
 
 ## Stage 2
 
