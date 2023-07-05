@@ -364,7 +364,7 @@ Teams will be allowed to pick a surface in the kitchen from where to grasp all t
 ![](https://github.com/RoboCupAtHome/Bordeaux2023/blob/master/maps/serve_breakfast.png?)
 
 ### GPSR
-![](https://github.com/RoboCupAtHome/Bordeaux2023/blob/master/objects/gpsr.png?)
+![](https://github.com/RoboCupAtHome/Bordeaux2023/blob/master/maps/gpsr.png?)
 
 ## Stage 2
 
