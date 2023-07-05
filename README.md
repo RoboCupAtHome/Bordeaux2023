@@ -12,7 +12,7 @@ First Team Leader Meeting at 15:00 in the DSPL Arena. Bring your own chair.
     + [Arena Map](#arena-map)
 - [Mapping Slots](#mapping-slots)
 - [Names](#names)
-- [Robot Inspection and Poster Session](#robot-inspection)
+- [Robot Inspection and Poster Session](#robot-inspection-and-poster-session)
 - [Stage 1](#stage-1)
     + [Receptionist](#receptionist)
 - [Stage 2](#stage-2)
@@ -154,7 +154,6 @@ First Team Leader Meeting at 15:00 in the DSPL Arena. Bring your own chair.
 **Note:** Gender-neutral names were ambigously chosen on purpose.
 
 
-<a name="robot-inspection"/>
 ## Robot Inspection and Poster Session
 ![](https://github.com/RoboCupAtHome/Bordeaux2023/blob/master/maps/robot_inspection.png?)
 
