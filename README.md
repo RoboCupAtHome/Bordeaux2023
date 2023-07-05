@@ -47,7 +47,7 @@ First Team Leader Meeting at 15:00 in the DSPL Arena. Bring your own chair.
 | Wed July 5 16:00| Team Name | League | 
 |-----------|---------|----|
 |1|Team of Bielefeld (ToBi) (Bielefeld University, Germany)| OPL |
-|2|LAR@Home (University of Minho, Portugal)|
+|2|LAR@Home (University of Minho, Portugal)| OPL |
 |3|Tidyboy-OPL(Pusan National University / Seoul National University, South Korea)|OPL |
 |4|EIC Chula(Chulalongkorn University, Thailand)|OPL |
 |5|LyonTech (CPE Lyon, INSA Lyon / INRIA / CHROMA, FRANCE)|OPL |
