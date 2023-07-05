@@ -244,17 +244,23 @@ First Team Leader Meeting at 15:00 in the DSPL Arena. Bring your own chair.
 | Robin        | Robin       |
 | Simone       | Simone      |
 
+**Note:** Gender-neutral names were ambigously chosen on purpose.
+
 ## Assigned Locations
 Cleaning Supplies: shelf
+
 Drinks: cabinet
+
 Food: pantry
+
 Fruits: desk
+
 Toys: bookshelf
+
 Snacks: side tables
+
 Dishes: kitchen table
 
-
-**Note:** Gender-neutral names were ambigously chosen on purpose.
 
 
 ## Robot Inspection and Poster Session
