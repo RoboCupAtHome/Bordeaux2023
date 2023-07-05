@@ -22,6 +22,7 @@ First Team Leader Meeting at 15:00 in the DSPL Arena. Bring your own chair.
     + [Receptionist](#receptionist)
     + [Storing Groceries](#storing-groceries)
     + [Carry my Luggage](#carry-my-luggage)
+    + [Serve Breakfast](#serve-breakfast)
 - [Stage 2](#stage-2)
 
 ## Scores
@@ -355,6 +356,11 @@ Possible bags for Carry my Luggage. Available for traning at OC table.
 ![](https://github.com/RoboCupAtHome/Bordeaux2023/blob/master/objects/carry_my_luggage2.jpg?)
 
 ![](https://github.com/RoboCupAtHome/Bordeaux2023/blob/master/objects/carry_my_luggage3.jpg?)
+
+### Serve Breakfast
+Teams will be allowed to pick a surface in the kitchen from where to grasp all the objects (cutlery, milk, and cereal) and then pick ANOTHER surface in the kitchen to place it.
+
+![](https://github.com/RoboCupAtHome/Bordeaux2023/blob/master/objects/serve_breakfast.png?)
 
 ## Stage 2
 
