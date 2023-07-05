@@ -15,7 +15,6 @@ First Team Leader Meeting at 15:00 in the DSPL Arena. Bring your own chair.
     + [DSPL Teams](#dspl-teams)
     + [SSPL Teams](#sspl-teams)
     + [Arena Map](#arena-map)
-- [Mapping Slots](#mapping-slots)
 - [Names](#names)
 - [Robot Inspection and Poster Session](#robot-inspection-and-poster-session)
 - [Stage 1](#stage-1)
