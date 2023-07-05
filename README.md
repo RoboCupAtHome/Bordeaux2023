@@ -247,7 +247,7 @@ First Team Leader Meeting at 15:00 in the DSPL Arena. Bring your own chair.
 ![](https://github.com/RoboCupAtHome/Bordeaux2023/blob/master/maps/receptionist.png?)
 
 ### Storing Groceries
-![](https://github.com/RoboCupAtHome/Bordeaux2023/blob/master/maps/storing_groceries.png?)
+![](https://github.com/RoboCupAtHome/Bordeaux2023/blob/master/maps/storing_groceries_new.png?)
 
 The side tables will be used as tables
 The pantry will be used as cabinet
