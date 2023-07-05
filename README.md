@@ -360,7 +360,7 @@ Possible bags for Carry my Luggage. Available for traning at OC table.
 ### Serve Breakfast
 Teams will be allowed to pick a surface in the kitchen from where to grasp all the objects (cutlery, milk, and cereal) and then pick ANOTHER surface in the kitchen to place it.
 
-![](https://github.com/RoboCupAtHome/Bordeaux2023/blob/master/objects/serve_breakfast.png?)
+![](https://github.com/RoboCupAtHome/Bordeaux2023/blob/master/maps/serve_breakfast.png?)
 
 ## Stage 2
 
