@@ -7,9 +7,9 @@ First Team Leader Meeting at 15:00 in the DSPL Arena. Bring your own chair.
 
 - [Scores](#scores)
 - [Schedule](#schedule)
-    + [Arena OPL Mappig Slots](#arena-opl-mapping-slots)
-    + [Arena SSPL/OPL Mappig Slots](#arena-sspl/opl-mapping-slots)
-    + [Arena DSPL Mappig Slots](#arena-dspl-mapping-slots)
+    + [Arena OPL Mapping Slots](#arena-opl-mapping-slots)
+    + [Arena SSPL/OPL Mapping Slots](#arena-sspl/opl-mapping-slots)
+    + [Arena DSPL Mapping Slots](#arena-dspl-mapping-slots)
 - [Arenas](#arenas)
     + [OPL Teams](#opl-teams)
     + [DSPL Teams](#dspl-teams)
@@ -27,7 +27,7 @@ First Team Leader Meeting at 15:00 in the DSPL Arena. Bring your own chair.
 
 ## Schedule
 
-### Arena OPL Mappig Slots
+### Arena OPL Mapping Slots
 
 | Team Name (OPL) | Arena | Tue July 4 | Wed July 5 |
 |-----------|-------|------|----|
@@ -43,7 +43,7 @@ First Team Leader Meeting at 15:00 in the DSPL Arena. Bring your own chair.
 |LAR@Home (University of Minho, Portugal)	|	OPL | 21:30 | 10:30 |
 
 
-### Arena SSPL/OPL Mappig Slots
+### Arena SSPL/OPL Mapping Slots
 
 | Team Name (SSPL/OPL) | Arena | Tue July 4 | Wed July 5 |
 |-----------|-------|------|----|
@@ -58,7 +58,7 @@ First Team Leader Meeting at 15:00 in the DSPL Arena. Bring your own chair.
 | RoboFEI@Home(FEI University Center, Brazil)	|	SSPL/OPL | 21:20 | 10:20 |
 
 
-### Arena DSPL Mappig Slots
+### Arena DSPL Mapping Slots
 
 | Team Name (DSPL) | Arena | Tue July 4 | Wed July 5 |
 |-----------|-------|------|----|
