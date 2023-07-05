@@ -105,7 +105,7 @@ First Team Leader Meeting at 15:00 in the DSPL Arena. Bring your own chair.
 
 ### Robot Inspection (OPL Arena)
 
-| Wed July 5 16:00| Team Name | League | 
+| Wed July 5 17:00| Team Name | League | 
 |-----------|---------|----|
 |1|Team of Bielefeld (ToBi) (Bielefeld University, Germany)| OPL |
 |2|LAR@Home (University of Minho, Portugal)| OPL |
@@ -120,7 +120,7 @@ First Team Leader Meeting at 15:00 in the DSPL Arena. Bring your own chair.
 
 ### Robot Inspection (SSPL/OPL Arena)
 
-| Wed July 5 16:00| Team Name | League | 
+| Wed July 5 17:00| Team Name | League | 
 |-----------|---------|----|
 |1| Sinfonia Uniandes (Universidad de los Andes, Colombia) | SSPL |
 |2| SKUBA(Kasetsart University, Thailand) | SSPL |
@@ -134,7 +134,7 @@ First Team Leader Meeting at 15:00 in the DSPL Arena. Bring your own chair.
 
 ### Robot Inspection (DSPL Arena)
 
-| Wed July 5 16:00| Team Name | League | 
+| Wed July 5 17:00| Team Name | League | 
 |-----------|---------|----|
 |1|	Tech United Eindhoven (Eindhoven University of Technology, The Netherlands) | DSPL |
 |2|	TRAIL (The University of Tokyo, JAPAN) | DSPL |
