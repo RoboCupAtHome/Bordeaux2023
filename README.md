@@ -289,11 +289,11 @@ Due to the ramps, starting points for carry my luggage will be outside the arena
 
 Possible bags for Carry my Luggage. Available for traning at OC table.
 
-![](https://github.com/RoboCupAtHome/Bordeaux2023/blob/master/objects/carry_my_luggage1.png?)
+![](https://github.com/RoboCupAtHome/Bordeaux2023/blob/master/objects/carry_my_luggage1.jpg?)
 
-![](https://github.com/RoboCupAtHome/Bordeaux2023/blob/master/objects/carry_my_luggage2.png?)
+![](https://github.com/RoboCupAtHome/Bordeaux2023/blob/master/objects/carry_my_luggage2.jpg?)
 
-![](https://github.com/RoboCupAtHome/Bordeaux2023/blob/master/objects/carry_my_luggage3.png?)
+![](https://github.com/RoboCupAtHome/Bordeaux2023/blob/master/objects/carry_my_luggage3.jpg?)
 
 ## Stage 2
 
