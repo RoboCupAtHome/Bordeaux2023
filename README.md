@@ -8,7 +8,7 @@ First Team Leader Meeting at 15:00 in the DSPL Arena. Bring your own chair.
 - [Scores](#scores)
 - [Schedule](#schedule)
     + [Arena OPL Mapping Slots](#arena-opl-mapping-slots)
-    + [Arena SSPL/OPL Mapping Slots](#arena-sspl/opl-mapping-slots)
+    + [Arena SSPL/OPL Mapping Slots](#arena-sspl-opl-mapping-slots)
     + [Arena DSPL Mapping Slots](#arena-dspl-mapping-slots)
 - [Arenas](#arenas)
     + [OPL Teams](#opl-teams)
@@ -43,7 +43,7 @@ First Team Leader Meeting at 15:00 in the DSPL Arena. Bring your own chair.
 |LAR@Home (University of Minho, Portugal)	|	OPL | 21:30 | 10:30 |
 
 
-### Arena SSPL/OPL Mapping Slots
+### Arena SSPL OPL Mapping Slots
 
 | Team Name (SSPL/OPL) | Arena | Tue July 4 | Wed July 5 |
 |-----------|-------|------|----|
