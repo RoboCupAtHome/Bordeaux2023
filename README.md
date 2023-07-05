@@ -255,7 +255,7 @@ First Team Leader Meeting at 15:00 in the DSPL Arena. Bring your own chair.
 ## Stage 1
 
 ### Receptionist
-![](https://github.com/RoboCupAtHome/Bordeaux2023/blob/master/maps/receptionist.png?)
+![](https://github.com/RoboCupAtHome/Bordeaux2023/blob/master/maps/receptionist_new.png?)
 
 ### Storing Groceries
 ![](https://github.com/RoboCupAtHome/Bordeaux2023/blob/master/maps/storing_groceries_new.png?)
