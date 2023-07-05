@@ -39,7 +39,7 @@ First Team Leader Meeting at 15:00 in the DSPL Arena. Bring your own chair.
 |13:00| | Storing Groceries | | | |
 |14:00| | Storing Groceries  | | | |
 |15:00| | Storing Groceries  | | | |
-|16:00|  | | | | |
+|16:00| Opening Ceremony (Conference Area P2A) | | | | |
 |17:00| Poster / Robot Inspection | Carry my luggage | | | |
 |18:00|  | Carry my luggage | | | |
 |19:00| Team-Leader Meeting| Carry my luggage | | | |
