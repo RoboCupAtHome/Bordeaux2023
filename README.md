@@ -29,6 +29,47 @@ First Team Leader Meeting at 15:00 in the DSPL Arena. Bring your own chair.
 
 ## Scores
 
+| Team Name (OPL) | Arena | Receptionist | Store groceries | Carry My Luggage |
+|-----------|-------|--------|---------| -------|
+| NimbRo@Home (University of Bonn, Germany)	|	OPL |  |  |  |
+| EIC Chula(Chulalongkorn University, Thailand)	|	OPL |  |  |  |
+|SOBITS(Soka University of Japan, Japan) 	|	OPL |  |  |  |
+|CATIE Robotics (CATIE, France)	|	OPL|  |  |  |
+|Gentlebots (Universidad Rey Juan Carlos / Universidad de León, Spain) |	OPL |  |  |  |
+|Tidyboy-OPL(Pusan National University / Seoul National University, South Korea)	|	OPL |  |  |  |
+|LCASTOR(University of Lincoln, United Kingdom)	|	OPL|  |  |  |
+|LyonTech (CPE Lyon, INSA Lyon / INRIA / CHROMA, FRANCE)	|	OPL |  |  |  |
+|Team of Bielefeld (ToBi) (Bielefeld University, Germany)	|	OPL |  |  |  |
+|LAR@Home (University of Minho, Portugal)	|	OPL |  |  |  |
+|Serious Cybernetics Corporation (SCC)(Ravensburg Weingarten U.a.S., Germany)	|	SSPL/OPL |  |  |  |
+|SocRob@Home (Institute for Systems and Robotics/Instituto Superior Técnico, Portugal)	|	SSPL/OPL |  |  |  |
+|KameRider OPL(MyEdu-UTAR, Malaysia)	|	SSPL/OPL |  |  |  |
+|ButiaBots(Universidade Federal do Rio Grande, Brazil)	|	SSPL/OPL |  |  |  |
+|RoboFEI@Home(FEI University Center, Brazil)	|	SSPL/OPL |  |  |  |
+
+### DSPL Teams
+| Team Name (DSPL) | Arena | Receptionist | Store groceries | Carry My Luggage |
+|-----------|-------|--------|---------| -------|
+| eR@sers+Pumas (Tamagawa University / UNAM, Japan / Mexico) | DSPL |  |  |  |
+| Hibikino-Musashi@Home (Kyushu Institute of Technology / University of Kitakyushu, Japan)| DSPL |  |  |  |
+| RoboCanes-VISAGE (University of Miami, USA)| DSPL |  |  |  |
+| RUNSWEEP (UNSW Sydney, Australia)| DSPL |  |  |  |
+| SUTURO-VaB (Universität Bremen / Universität Vienna, Germany / Austria)| DSPL |  |  |  |
+| Team Northeastern (Northeastern University, USA)| DSPL |  |  |  |
+| Team ORIon-UTBMan (University of Oxford/University of Technology of Belfort-Montebeliard, UK/France)| DSPL |  |  |  |
+| Tech United Eindhoven (Eindhoven University of Technology, The Netherlands)| DSPL |  |  |  |
+| Tidyboy-DSPL (Seoul National University/Pusan National University, South Korea)| DSPL |  |  |  |
+| TRAIL (The University of Tokyo, JAPAN)| DSPL |  |  |  |
+|UT Austin Villa@Home (University of Texas at Austin, USA)| DSPL |  |  |  |
+
+### SSPL Teams
+| Team Name (SSPL) | Arena |  Receptionist | Store groceries | Carry My Luggage |
+|-----------|-------|--------|---------| -------|
+|LiU@HomeWreckers (Linköping University, Sweden)|OPL/SSPL|  |  |  |
+|RoboBreizh (CNRS/LAB-STICC/LITIS, France/Australia)|OPL/SSPL|  |  |  |
+|Sinfonia Uniandes (Universidad de los Andes, Colombia)|OPL/SSPL|  |  |  |
+|SKUBA(Kasetsart University, Thailand)|OPL/SSPL|  |  |  |
+
 
 
 ## Schedule
