@@ -50,25 +50,25 @@ First Team Leader Meeting at 15:00 in the DSPL Arena. Bring your own chair.
 ### DSPL Teams
 | Team Name (DSPL) | Arena | Receptionist | Store groceries | Carry My Luggage | Serve Breakfast | GPSR | Team Poster |
 |-----------|-------|--------|---------| -------|--------|---------| -------|
-| eR@sers+Pumas (Tamagawa University / UNAM, Japan / Mexico) | DSPL | 50/400 | 220/130 | 600 |  |  |  |
-| Hibikino-Musashi@Home (Kyushu Institute of Technology / University of Kitakyushu, Japan)| DSPL | 350/400 | 0/420 | 50/0 |  |  |  |
-| RoboCanes-VISAGE (University of Miami, USA)| DSPL | 0/550 | 0/0 | 0 |  |  |  |
-| RUNSWEEP (UNSW Sydney, Australia)| DSPL | 0 | 0 | 0 |  |  |  |
-| SUTURO-VaB (Universität Bremen / Universität Vienna, Germany / Austria)| DSPL | 0/0 | 0/0 | 400 |  |  |  |
-| Team Northeastern (Northeastern University, USA)| DSPL | 0 | 0 | 0 |  |  |  |
-| Team ORIon-UTBMan (University of Oxford/University of Technology of Belfort-Montebeliard, UK/France)| DSPL | 0/0 | 60/30 | 0/0 |  |  |  |
-| Tech United Eindhoven (Eindhoven University of Technology, The Netherlands)| DSPL | 450/500 | 410/260 | 0/0 |  |  |  |
-| Tidyboy-DSPL (Seoul National University/Pusan National University, South Korea)| DSPL | 0/650 | 0/0 | 0/100 |  |  |  |
-| TRAIL (The University of Tokyo, JAPAN)| DSPL | 0/0 | 60/90 | 100/100 |  |  |  |
-|UT Austin Villa@Home (University of Texas at Austin, USA)| DSPL | 0/300 | 0/0 | 0/0 |  |  |  |
+| eR@sers+Pumas (Tamagawa University / UNAM, Japan / Mexico) | DSPL | 50/400 | 220/130 | 600 |  |  | 30.83 |
+| Hibikino-Musashi@Home (Kyushu Institute of Technology / University of Kitakyushu, Japan)| DSPL | 350/400 | 0/420 | 50/0 |  |  | 33.33 |
+| RoboCanes-VISAGE (University of Miami, USA)| DSPL | 0/550 | 0/0 | 0 |  |  | 27.5 |
+| RUNSWEEP (UNSW Sydney, Australia)| DSPL | 0 | 0 | 0 |  |  | 30 |
+| SUTURO-VaB (Universität Bremen / Universität Vienna, Germany / Austria)| DSPL | 0/0 | 0/0 | 400 |  |  | 30.83 |
+| Team Northeastern (Northeastern University, USA)| DSPL | 0 | 0 | 0 |  |  | 0 |
+| Team ORIon-UTBMan (University of Oxford/University of Technology of Belfort-Montebeliard, UK/France)| DSPL | 0/0 | 60/30 | 0/0 |  |  | 28.33 |
+| Tech United Eindhoven (Eindhoven University of Technology, The Netherlands)| DSPL | 450/500 | 410/260 | 0/0 |  |  | 29.15 |
+| Tidyboy-DSPL (Seoul National University/Pusan National University, South Korea)| DSPL | 0/650 | 0/0 | 0/100 |  |  | 30.83 |
+| TRAIL (The University of Tokyo, JAPAN)| DSPL | 0/0 | 60/90 | 100/100 |  |  | 29.16 |
+|UT Austin Villa@Home (University of Texas at Austin, USA)| DSPL | 0/300 | 0/0 | 0/0 |  |  | 33.33 |
 
 ### SSPL Teams
 | Team Name (SSPL) | Arena |  Receptionist | Store groceries | Carry My Luggage | Serve Breakfast | GPSR | Team Poster |
 |-----------|-------|--------|---------| -------|--------|---------| -------|
-|LiU@HomeWreckers (Linköping University, Sweden)|OPL/SSPL| 0/0 | 0/0 | 0/0 |  |  |  |
-|RoboBreizh (CNRS/LAB-STICC/LITIS, France/Australia)|OPL/SSPL| 0/800 | 0/0 | 0/0 |  |  |  |
-|Sinfonia Uniandes (Universidad de los Andes, Colombia)|OPL/SSPL| 0/200 | 0/0 | 0/0 |  |  |  |
-|SKUBA(Kasetsart University, Thailand)|OPL/SSPL| 0/0 | 0/0 | 0/0 |  |  |  |
+|LiU@HomeWreckers (Linköping University, Sweden)|OPL/SSPL| 0/0 | 0/0 | 0/0 |  |  | 30 |
+|RoboBreizh (CNRS/LAB-STICC/LITIS, France/Australia)|OPL/SSPL| 0/800 | 0/0 | 0/0 |  |  | 40.66 |
+|Sinfonia Uniandes (Universidad de los Andes, Colombia)|OPL/SSPL| 0/200 | 0/0 | 0/0 |  |  | 31.66 |
+|SKUBA(Kasetsart University, Thailand)|OPL/SSPL| 0/0 | 0/0 | 0/0 |  |  | 25 |
 
 
 
