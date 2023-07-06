@@ -89,6 +89,51 @@ First Team Leader Meeting at 15:00 in the DSPL Arena. Bring your own chair.
 |19:00| Team-Leader Meeting| Carry my luggage | | | |
 |20:00| Reception (bring your own stuff) | Team-Leader Meeting | | | |
 
+### Test Schedule July 7 (OPL Arena)
+
+|   | GSPR (09:00) | League | | | Serve Breakfast (13:00) | League | 
+|---|---|---|---|---|---|---|    
+|1|NimbRo@Home (University of Bonn, Germany)|OPL||1|Tidyboy-OPL(Pusan National University / Seoul National University, South Korea)|OPL|
+|2|Gentlebots (Universidad Rey Juan Carlos / Universidad de León, Spain)|OPL||2|Gentlebots (Universidad Rey Juan Carlos / Universidad de León, Spain)|OPL|
+|3|Team of Bielefeld (ToBi) (Bielefeld University, Germany)|OPL||3|SOBITS(Soka University of Japan, Japan)|OPL|
+|4|Tidyboy-OPL(Pusan National University / Seoul National University, South Korea)|OPL||4|Team of Bielefeld (ToBi) (Bielefeld University, Germany)|OPL|
+|5|SOBITS(Soka University of Japan, Japan)|OPL||5|NimbRo@Home (University of Bonn, Germany)|OPL|
+|6|LCASTOR(University of Lincoln, United Kingdom)|OPL||6|LCASTOR(University of Lincoln, United Kingdom)|OPL|
+|7|LyonTech (CPE Lyon, INSA Lyon / INRIA / CHROMA, FRANCE)|OPL||7|LAR@Home (University of Minho, Portugal)|OPL|
+|8|EIC Chula(Chulalongkorn University, Thailand)|OPL||8|CATIE Robotics (CATIE, France)|OPL|
+|9|CATIE Robotics (CATIE, France)|OPL||9|EIC Chula(Chulalongkorn University, Thailand)|OPL|
+|10|LAR@Home (University of Minho, Portugal)|OPL||10|LyonTech (CPE Lyon, INSA Lyon / INRIA / CHROMA, FRANCE)|OPL|
+
+### Test Schedule July 7 (SSPL/OPL Arena)
+
+|   | GSPR (09:00) | League | | | Serve Breakfast (13:00) | League | 
+|---|---|---|---|---|---|---|    
+|1|Sinfonia Uniandes (Universidad de los Andes, Colombia)|SSPL||1|RoboBreizh (CNRS/LAB-STICC/LITIS, France/Australia)|SSPL|
+|2|RoboBreizh (CNRS/LAB-STICC/LITIS, France/Australia)|SSPL||2|Sinfonia Uniandes (Universidad de los Andes, Colombia)|SSPL|
+|3|SKUBA(Kasetsart University, Thailand)|SSPL||3|SKUBA(Kasetsart University, Thailand)|SSPL|
+|4|LiU@HomeWreckers (Linköping University, Sweden)|SSPL||4|LiU@HomeWreckers (Linköping University, Sweden)|SSPL|      
+|5|KameRider OPL(MyEdu-UTAR, Malaysia)|OPL||5|Serious Cybernetics Corporation (SCC)(Ravensburg Weingarten U.a.S., Germany)|OPL|
+|6|ButiaBots(Universidade Federal do Rio Grande, Brazil)|OPL||6|KameRider OPL(MyEdu-UTAR, Malaysia)|OPL|
+|7|Serious Cybernetics Corporation (SCC)(Ravensburg Weingarten U.a.S., Germany)|OPL||7|RoboFEI@Home(FEI University Center, Brazil)|OPL|
+|8|SocRob@Home (Institute for Systems and Robotics/Instituto Superior Técnico, Portugal)|OPL||8|ButiaBots(Universidade Federal do Rio Grande, Brazil)|OPL|
+|9|RoboFEI@Home(FEI University Center, Brazil)|OPL||9|SocRob@Home (Institute for Systems and Robotics/Instituto Superior Técnico, Portugal)|OPL|
+
+### Test Schedule July 7 (DSPL Arena)
+
+|   | GSPR (09:00) | League | | | Serve Breakfast (13:00) | League | 
+|---|---|---|---|---|---|---|  
+|1|eR@sers+Pumas (Tamagawa University / UNAM, Japan / Mexico)|DSPL||1|RoboCanes-VISAGE (University of Miami, USA)|DSPL|
+|2|Hibikino-Musashi@Home (Kyushu Institute of Technology / University of Kitakyushu, Japan)|DSPL||2|Team ORIon-UTBMan (University of Oxford/University of Technology of Belfort-Montebeliard, UK/France)|DSPL|
+|3|UT Austin Villa@Home (University of Texas at Austin, USA)|DSPL||3|Hibikino-Musashi@Home (Kyushu Institute of Technology / University of Kitakyushu, Japan)|DSPL|
+|4|Team ORIon-UTBMan (University of Oxford/University of Technology of Belfort-Montebeliard, UK/France)|DSPL||4|SUTURO-VaB (Universität Bremen / Universität Vienna, Germany / Austria)|DSPL|
+|5|Tech United Eindhoven (Eindhoven University of Technology, The Netherlands)|DSPL||5|Team Northeastern (Northeastern University, USA)|DSPL|
+|6|Tidyboy-DSPL (Seoul National University/Pusan National University, South Korea)|DSPL||6|UT Austin Villa@Home (University of Texas at Austin, USA)|DSPL|
+|7|SUTURO-VaB (Universität Bremen / Universität Vienna, Germany / Austria)|DSPL||7|Tidyboy-DSPL (Seoul National University/Pusan National University, South Korea)|DSPL|
+|8|TRAIL (The University of Tokyo, JAPAN)|DSPL||8|eR@sers+Pumas (Tamagawa University / UNAM, Japan / Mexico)|DSPL|
+|9|Team Northeastern (Northeastern University, USA)|DSPL||9|TRAIL (The University of Tokyo, JAPAN)|DSPL|
+|10|RoboCanes-VISAGE (University of Miami, USA)|DSPL||10|Tech United Eindhoven (Eindhoven University of Technology, The Netherlands)|DSPL|
+|11|RUNSWEEP (UNSW Sydney, Australia)|DSPL||11|RUNSWEEP (UNSW Sydney, Australia)|DSPL|
+
 ### Test Schedule July 6 (OPL Arena)
 
 |   | Receptionist (09:00) | League | | | Storing Groceries (13:00) | League | | | Carry my Luggage (17:00)| League |
