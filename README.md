@@ -31,21 +31,21 @@ First Team Leader Meeting at 15:00 in the DSPL Arena. Bring your own chair.
 
 | Team Name (OPL) | Arena | Receptionist | Store groceries | Carry My Luggage |
 |-----------|-------|--------|---------| -------|
-| NimbRo@Home (University of Bonn, Germany)	|	OPL |  |  |  |
-| EIC Chula(Chulalongkorn University, Thailand)	|	OPL |  |  |  |
-|SOBITS(Soka University of Japan, Japan) 	|	OPL |  |  |  |
-|CATIE Robotics (CATIE, France)	|	OPL|  |  |  |
-|Gentlebots (Universidad Rey Juan Carlos / Universidad de León, Spain) |	OPL |  |  |  |
-|Tidyboy-OPL(Pusan National University / Seoul National University, South Korea)	|	OPL |  |  |  |
-|LCASTOR(University of Lincoln, United Kingdom)	|	OPL|  |  |  |
-|LyonTech (CPE Lyon, INSA Lyon / INRIA / CHROMA, FRANCE)	|	OPL |  |  |  |
-|Team of Bielefeld (ToBi) (Bielefeld University, Germany)	|	OPL |  |  |  |
-|LAR@Home (University of Minho, Portugal)	|	OPL |  |  |  |
-|Serious Cybernetics Corporation (SCC)(Ravensburg Weingarten U.a.S., Germany)	|	SSPL/OPL | 300/350 | 0/0 |  |
-|SocRob@Home (Institute for Systems and Robotics/Instituto Superior Técnico, Portugal)	|	SSPL/OPL | 0/550 | 0/0 |  |
-|KameRider OPL(MyEdu-UTAR, Malaysia)	|	SSPL/OPL | 0/250 | 0/0 |  |
-|ButiaBots(Universidade Federal do Rio Grande, Brazil)	|	SSPL/OPL | 300/300 | 0/0 |  |
-|RoboFEI@Home(FEI University Center, Brazil)	|	SSPL/OPL | 400/500 | 0/0 |  |
+| NimbRo@Home (University of Bonn, Germany)	|	OPL | 700/775 | 0 | 150/500 |
+| EIC Chula(Chulalongkorn University, Thailand)	|	OPL | 0 | 0 | 0 |
+|SOBITS(Soka University of Japan, Japan) 	|	OPL | 0 | 0 | 0/0 |
+|CATIE Robotics (CATIE, France)	|	OPL| 400/800 | 0/210 | 600 |
+|Gentlebots (Universidad Rey Juan Carlos / Universidad de León, Spain) |	OPL | 0 | 0 | 0 |
+|Tidyboy-OPL(Pusan National University / Seoul National University, South Korea)	|	OPL | 800 | 690/480 | 100 |
+|LCASTOR(University of Lincoln, United Kingdom)	|	OPL| 0 | 90 | 0 |
+|LyonTech (CPE Lyon, INSA Lyon / INRIA / CHROMA, FRANCE)	|	OPL | 0/0 | 0 | 0 |
+|Team of Bielefeld (ToBi) (Bielefeld University, Germany)	|	OPL | 650/700 | 90/60 | 0/0 |
+|LAR@Home (University of Minho, Portugal)	|	OPL | 800/0 | 0 | 0 |
+|Serious Cybernetics Corporation (SCC)(Ravensburg Weingarten U.a.S., Germany)	|	SSPL/OPL | 300/350 | 0/0 | 50/100 |
+|SocRob@Home (Institute for Systems and Robotics/Instituto Superior Técnico, Portugal)	|	SSPL/OPL | 0/550 | 0/0 | 0 |
+|KameRider OPL(MyEdu-UTAR, Malaysia)	|	SSPL/OPL | 0/250 | 0/0 | 0/0 |
+|ButiaBots(Universidade Federal do Rio Grande, Brazil)	|	SSPL/OPL | 300/300 | 0/0 | 0/100 |
+|RoboFEI@Home(FEI University Center, Brazil)	|	SSPL/OPL | 400/500 | 0/0 | 0 |
 
 ### DSPL Teams
 | Team Name (DSPL) | Arena | Receptionist | Store groceries | Carry My Luggage |
