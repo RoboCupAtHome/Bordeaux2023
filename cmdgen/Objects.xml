@@ -6,55 +6,63 @@
 //-->
 <categories>
 
-	<category name="cleaning stuff" defaultLocation="side table" room="bedroom">
-		<object name="cloth"   type="known" difficulty="high" />
-		<object name="scrubby" type="known" difficulty="easy" />
-		<object name="sponge"  type="known" difficulty="moderate" />
-		<object name="cascade pod"  type="known" difficulty="high" />
+	<category name="cleaning supplies" defaultLocation="shelf" room="bedroom">
+		<object name="sponge"  type="known" difficulty="high" />
+		<object name="clanser"  type="known" difficulty="easy" />
 	</category>
 
-	<category name="containers" defaultLocation="end table" room="living room">
-		<object name="tray"     type="special" difficulty="high"      canPlaceOn="true" twoHands="true"  />
-		<object name="basket"   type="special" difficulty="high"      canPlaceIn="true" twoHands="true"  />
-		<object name="bag"      type="special" difficulty="easy"      canPlaceIn="true"                  />
-	</category>
+	<category name="toys" defaultLocation="bookshelf" room="living room">
+		<object name="tennis ball"     type="special" difficulty="high"      canPlaceOn="true" twoHands="true"  />
+		<object name="soccer ball"     type="special" difficulty="high"      canPlaceIn="true" twoHands="true"  />
+		<object name="dice"            type="special" difficulty="high"      canPlaceIn="true"                  />
+		<object name="baseball"        type="special" difficulty="moderate"      canPlaceIn="true" 
+		<object name="rubiks_cube"     type="special" difficulty="moderate"      canPlaceIn="true" 	</category>
 
-	<category name="cutlery"    defaultLocation="storage table" room="kitchen">
+	<category name="dishes"    defaultLocation="kitchen table" room="kitchen">
 		<object name="fork"     type="known" difficulty="high" />
 		<object name="knife"    type="known" difficulty="high" />
 		<object name="spoon"    type="known" difficulty="high" />
-	</category>
-
-	<category name="drinks"         defaultLocation="counter" room="kitchen">
-		<object name="chocolate drink" type="known" difficulty="easy" canPour="true" />
-		<object name="coke"            type="known" difficulty="easy" canPour="true" />
-		<object name="grape juice"     type="known" difficulty="easy" canPour="true" />
-		<object name="orange juice"    type="known" difficulty="easy" canPour="true" />
-		<object name="sprite"          type="known" difficulty="easy" canPour="true" />
-	</category>
-
-	<category name="food"       defaultLocation="cupboard" room="kitchen">
-		<object name="cereal"   type="known" difficulty="easy" />
-		<object name="noodles"  type="known" difficulty="easy" />
-		<object name="sausages" type="known" difficulty="easy" />
-	</category>
-
-	<category name="fruits"     defaultLocation="bookcase" room="living room">
-		<object name="apple"    type="alike" difficulty="moderate" />
-		<object name="orange"   type="alike" difficulty="moderate" />
-		<object name="paprika"  type="alike" difficulty="moderate" />
-	</category>
-
-	<category name="snacks"         defaultLocation="bookcase" room="living room">
-		<object name="pringles"     type="known" difficulty="easy" />
-		<object name="crackers"     type="known" difficulty="easy" />
-		<object name="potato chips" type="known" difficulty="easy" />
-	</category>
-
-	<category name="tableware"  defaultLocation="storage table" room="kitchen">
-		<object name="dish"     type="known" difficulty="moderate" canPlaceOn="true" />
+		<object name="plate"     type="known" difficulty="moderate" canPlaceOn="true" />
 		<object name="bowl"     type="known" difficulty="moderate" canPourIn="true"  />
 		<object name="cup"    type="known" difficulty="moderate" canPourIn="true"  />
+	</category>
+
+	<category name="drinks"         defaultLocation="cabinet" room="study">
+		<object name="red wine"        type="known" difficulty="easy" canPour="true" />
+		<object name="cola"            type="known" difficulty="easy" canPour="true" />
+		<object name="juice pack"      type="known" difficulty="easy" canPour="true" />
+		<object name="tropical juice"  type="known" difficulty="easy" canPour="true" />
+		<object name="milk"            type="known" difficulty="easy" canPour="true" />
+		<object name="iced tea"        type="known" difficulty="easy" canPour="true" />
+		<object name="orange juice"    type="known" difficulty="easy" canPour="true" />
+	</category>
+
+	<category name="food"       defaultLocation="pantry" room="kitchen">
+		<object name="cereal"           type="known" difficulty="easy" />
+		<object name="tuna"             type="known" difficulty="easy" />
+		<object name="spam"             type="known" difficulty="easy" />
+		<object name="mustard"          type="known" difficulty="easy" />
+		<object name="strawberry jello" type="known" difficulty="easy" />
+		<object name="chocolate jello"  type="known" difficulty="easy" />
+		<object name="coffee grounds"   type="known" difficulty="easy" />
+		<object name="sugar"            type="known" difficulty="easy" />
+	</category>
+
+	<category name="fruits"     defaultLocation="desk" room="study">
+		<object name="apple"      type="alike" difficulty="moderate" />
+		<object name="orange"     type="alike" difficulty="moderate" />
+		<object name="pear"       type="alike" difficulty="moderate" />
+		<object name="banana"     type="alike" difficulty="moderate" />
+		<object name="strawberry" type="alike" difficulty="moderate" />
+		<object name="lemon"      type="alike" difficulty="moderate" />
+		<object name="peach"      type="alike" difficulty="moderate" />
+		<object name="plum"       type="alike" difficulty="moderate" />
+	</category>
+
+	<category name="snacks"         defaultLocation="side tables" room="living room">
+		<object name="pringles"     type="known" difficulty="easy" />
+		<object name="cornflakes"     type="known" difficulty="easy" />
+		<object name="cheezit" type="known" difficulty="easy" />
 	</category>
 
 </categories>
