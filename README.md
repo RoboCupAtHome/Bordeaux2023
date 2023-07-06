@@ -41,11 +41,11 @@ First Team Leader Meeting at 15:00 in the DSPL Arena. Bring your own chair.
 |LyonTech (CPE Lyon, INSA Lyon / INRIA / CHROMA, FRANCE)	|	OPL |  |  |  |
 |Team of Bielefeld (ToBi) (Bielefeld University, Germany)	|	OPL |  |  |  |
 |LAR@Home (University of Minho, Portugal)	|	OPL |  |  |  |
-|Serious Cybernetics Corporation (SCC)(Ravensburg Weingarten U.a.S., Germany)	|	SSPL/OPL |  |  |  |
-|SocRob@Home (Institute for Systems and Robotics/Instituto Superior Técnico, Portugal)	|	SSPL/OPL |  |  |  |
-|KameRider OPL(MyEdu-UTAR, Malaysia)	|	SSPL/OPL |  |  |  |
-|ButiaBots(Universidade Federal do Rio Grande, Brazil)	|	SSPL/OPL |  |  |  |
-|RoboFEI@Home(FEI University Center, Brazil)	|	SSPL/OPL |  |  |  |
+|Serious Cybernetics Corporation (SCC)(Ravensburg Weingarten U.a.S., Germany)	|	SSPL/OPL | 300/350 | 0/0 |  |
+|SocRob@Home (Institute for Systems and Robotics/Instituto Superior Técnico, Portugal)	|	SSPL/OPL | 0/550 | 0/0 |  |
+|KameRider OPL(MyEdu-UTAR, Malaysia)	|	SSPL/OPL | 0/250 | 0/0 |  |
+|ButiaBots(Universidade Federal do Rio Grande, Brazil)	|	SSPL/OPL | 300/300 | 0/0 |  |
+|RoboFEI@Home(FEI University Center, Brazil)	|	SSPL/OPL | 400/500 | 0/0 |  |
 
 ### DSPL Teams
 | Team Name (DSPL) | Arena | Receptionist | Store groceries | Carry My Luggage |
@@ -65,10 +65,10 @@ First Team Leader Meeting at 15:00 in the DSPL Arena. Bring your own chair.
 ### SSPL Teams
 | Team Name (SSPL) | Arena |  Receptionist | Store groceries | Carry My Luggage |
 |-----------|-------|--------|---------| -------|
-|LiU@HomeWreckers (Linköping University, Sweden)|OPL/SSPL|  |  |  |
-|RoboBreizh (CNRS/LAB-STICC/LITIS, France/Australia)|OPL/SSPL|  |  |  |
-|Sinfonia Uniandes (Universidad de los Andes, Colombia)|OPL/SSPL|  |  |  |
-|SKUBA(Kasetsart University, Thailand)|OPL/SSPL|  |  |  |
+|LiU@HomeWreckers (Linköping University, Sweden)|OPL/SSPL| 0/0 | 0/0 |  |
+|RoboBreizh (CNRS/LAB-STICC/LITIS, France/Australia)|OPL/SSPL| 0/800 | 0/0 |  |
+|Sinfonia Uniandes (Universidad de los Andes, Colombia)|OPL/SSPL| 0/200 | 0/0 |  |
+|SKUBA(Kasetsart University, Thailand)|OPL/SSPL| 0/0 | 0/0 |  |
 
 
 
