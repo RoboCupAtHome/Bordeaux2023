@@ -29,8 +29,8 @@ First Team Leader Meeting at 15:00 in the DSPL Arena. Bring your own chair.
 
 ## Scores
 
-| Team Name (OPL) | Arena | Receptionist | Store groceries | Carry My Luggage |
-|-----------|-------|--------|---------| -------|
+| Team Name (OPL) | Arena | Receptionist | Store groceries | Carry My Luggage | Serve Breakfast | GPSR | Team Poster |
+|-----------|-------|--------|---------| -------|--------|---------| -------|
 | NimbRo@Home (University of Bonn, Germany)	|	OPL | 700/775 | 0 | 150/500 |
 | EIC Chula(Chulalongkorn University, Thailand)	|	OPL | 0 | 0 | 0 |
 |SOBITS(Soka University of Japan, Japan) 	|	OPL | 0 | 0 | 0/0 |
@@ -48,8 +48,8 @@ First Team Leader Meeting at 15:00 in the DSPL Arena. Bring your own chair.
 |RoboFEI@Home(FEI University Center, Brazil)	|	SSPL/OPL | 400/500 | 0/0 | 0 |
 
 ### DSPL Teams
-| Team Name (DSPL) | Arena | Receptionist | Store groceries | Carry My Luggage |
-|-----------|-------|--------|---------| -------|
+| Team Name (DSPL) | Arena | Receptionist | Store groceries | Carry My Luggage | Serve Breakfast | GPSR | Team Poster |
+|-----------|-------|--------|---------| -------|--------|---------| -------|
 | eR@sers+Pumas (Tamagawa University / UNAM, Japan / Mexico) | DSPL | 50/400 | 220/130 | 600 |
 | Hibikino-Musashi@Home (Kyushu Institute of Technology / University of Kitakyushu, Japan)| DSPL | 350/400 | 0/420 | 50/0 |
 | RoboCanes-VISAGE (University of Miami, USA)| DSPL | 0/550 | 0/0 | 0 |
@@ -63,8 +63,8 @@ First Team Leader Meeting at 15:00 in the DSPL Arena. Bring your own chair.
 |UT Austin Villa@Home (University of Texas at Austin, USA)| DSPL | 0/300 | 0/0 | 0/0 |
 
 ### SSPL Teams
-| Team Name (SSPL) | Arena |  Receptionist | Store groceries | Carry My Luggage |
-|-----------|-------|--------|---------| -------|
+| Team Name (SSPL) | Arena |  Receptionist | Store groceries | Carry My Luggage | Serve Breakfast | GPSR | Team Poster |
+|-----------|-------|--------|---------| -------|--------|---------| -------|
 |LiU@HomeWreckers (Linköping University, Sweden)|OPL/SSPL| 0/0 | 0/0 | 0/0 |
 |RoboBreizh (CNRS/LAB-STICC/LITIS, France/Australia)|OPL/SSPL| 0/800 | 0/0 | 0/0 |
 |Sinfonia Uniandes (Universidad de los Andes, Colombia)|OPL/SSPL| 0/200 | 0/0 | 0/0 |
