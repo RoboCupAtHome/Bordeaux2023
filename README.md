@@ -91,7 +91,7 @@ First Team Leader Meeting at 15:00 in the DSPL Arena. Bring your own chair.
 
 ### Test Schedule 2nd Stage July 7
 
-#### Serve Breakfast July 7 2023, 17:00
+#### Clean the Table July 7 2023, 17:00
 
 | Ordering | Team OPL |  Team DSPL | Team SSPL |
 |---|---|---|---|
