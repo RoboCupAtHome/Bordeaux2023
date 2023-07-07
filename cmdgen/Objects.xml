@@ -15,8 +15,9 @@
 		<object name="tennis ball"     type="special" difficulty="high"      canPlaceOn="true" twoHands="true"  />
 		<object name="soccer ball"     type="special" difficulty="high"      canPlaceIn="true" twoHands="true"  />
 		<object name="dice"            type="special" difficulty="high"      canPlaceIn="true"                  />
-		<object name="baseball"        type="special" difficulty="moderate"      canPlaceIn="true" 
-		<object name="rubiks_cube"     type="special" difficulty="moderate"      canPlaceIn="true" 	</category>
+		<object name="baseball"        type="special" difficulty="moderate"      canPlaceIn="true"              />
+		<object name="rubiks_cube"     type="special" difficulty="moderate"      canPlaceIn="true" 	        />
+	</category>
 
 	<category name="dishes"    defaultLocation="kitchen table" room="kitchen">
 		<object name="fork"     type="known" difficulty="high" />
