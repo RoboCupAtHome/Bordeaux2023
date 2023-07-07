@@ -93,6 +93,8 @@ First Team Leader Meeting at 15:00 in the DSPL Arena. Bring your own chair.
 
 #### Clean the Table July 7 2023, 17:00
 
+The teams that have been performed in the SSPL Arena will be evaluated by the OPL referees in the SSPL Arena. OPL Arena teams are evaluated first.
+
 | Ordering | Team OPL |  Team DSPL | Team SSPL |
 |---|---|---|---|
 |1 |6th ranked team|6th ranked team |2nd ranked team|
