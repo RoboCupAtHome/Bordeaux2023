@@ -89,6 +89,21 @@ First Team Leader Meeting at 15:00 in the DSPL Arena. Bring your own chair.
 |19:00| Team-Leader Meeting| Carry my luggage | Team-Leader Meeting | Team-Leader Meeting | |
 |20:00| Reception (bring your own stuff) | Team-Leader Meeting | | | |
 
+### Test Schedule 2nd Stage July 7
+
+#### Serve Breakfast July 7 2023, 17:00
+
+| Ordering | Team OPL |  Team DSPL | Team SSPL |
+|---|---|---|---|
+|1 |6th ranked team|6th ranked team |2nd ranked team|
+|2 |2nd ranked team|2nd ranked team |3rd ranked team|
+|3|7th ranked team|3rd ranked team |1st ranked team|
+|4|3rd ranked team|4th ranked team | |
+|5|4th ranked team|1st ranked team | |
+|6|1st ranked team|5th ranked team | |
+|7|5th ranked team| | |
+|8|8th ranked team| | |
+
 ### Test Schedule July 7 (OPL Arena)
 
 |   | GSPR (09:00) | League | | | Serve Breakfast (13:00) | League | 
