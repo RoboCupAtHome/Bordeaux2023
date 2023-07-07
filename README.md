@@ -103,6 +103,64 @@ First Team Leader Meeting at 15:00 in the DSPL Arena. Bring your own chair.
 |19:00| Team-Leader Meeting| Carry my luggage | Team-Leader Meeting | Team-Leader Meeting | |
 |20:00| Reception (bring your own stuff) | Team-Leader Meeting | | | |
 
+### Test Schedule 2nd Stage July 8
+
+#### Restaurant, 09:00 (start to move to restaurant place)
+
+| |Team|League|
+|---|---|---|
+|1|RoboFEI@Home|OPL|
+|2|Team of Bielefeld (ToBi)|OPL|
+|3|CATIE Robotics|OPL|
+|4|Tidyboy-OPL|OPL|
+|5|LAR@Home|OPL|
+|6|Serious Cybernetics Corporation (SCC)|OPL|
+|7|NimbRo@Home|OPL|
+|8|SocRob@Home|OPL|
+||||
+|9|Tidyboy-DSPL|DSPL|
+|10|Hibikino-Musashi@Home|DSPL|
+|11|Tech United Eindhoven|DSPL|
+|12|TRAIL|DSPL|
+|13|eR@sers+Pumas|DSPL|
+|14|RoboCanes-VISAGE|DSPL|
+||||
+|16|RoboBreizh|SSPL|
+|17|Sinfonia Uniandes|SSPL|
+
+#### Arena Tests (OPL Teams)
+
+| |Stickler for the rules 14:00|League/Arena|   ||EGPSR 17:00|League/Arena|
+|---|---|---|---|---|---|---|
+|1|LAR@Home|OPL||1|Team of Bielefeld (ToBi)|OPL|
+|2|Tidyboy-OPL|OPL||2|CATIE Robotics|OPL|
+|3|NimbRo@Home|OPL||3|NimbRo@Home|OPL|
+|4|Team of Bielefeld (ToBi)|OPL||4|Tidyboy-OPL|OPL|
+|5|CATIE Robotics|OPL||5|LAR@Home|OPL|
+|6|RoboFEI@Home|OPL/SSPL||6|SocRob@Home|OPL/SSPL|
+|7|Serious Cybernetics Corporation (SCC)|OPL/SSPL||7|Serious Cybernetics Corporation (SCC)|OPL/SSPL|
+|8|SocRob@Home|OPL/SSPL||8|RoboFEI@Home|OPL/SSPL|
+
+#### Arena Tests (DSPL Teams)
+
+| |Stickler for the rules 14:00|League/Arena|   ||EGPSR 17:00|League/Arena|
+|---|---|---|---|---|---|---|
+|1|TRAIL|DSPL||1|Tidyboy-DSPL|DSPL|
+|2|Tidyboy-DSPL|DSPL||2|eR@sers+Pumas|DSPL|
+|3|RoboCanes-VISAGE|DSPL||3|Hibikino-Musashi@Home|DSPL|
+|4|Tech United Eindhoven|DSPL||4|RoboCanes-VISAGE|DSPL|
+|5|Hibikino-Musashi@Home|DSPL||5|TRAIL|DSPL|
+|6|eR@sers+Pumas|DSPL||6|Tech United Eindhoven|DSPL|
+
+#### Arena Tests (SSPL Teams)
+
+| |Stickler for the rules 14:00|League/Arena|   ||EGPSR 17:00|League/Arena|
+|---|---|---|---|---|---|---|
+|1|Sinfonia Uniandes|SSPL||1|RoboBreizh|SSPL|
+|2|RoboBreizh|SSPL||2|Sinfonia Uniandes|SSPL|
+
+
+
 ### Test Schedule 2nd Stage July 7
 
 #### Clean the Table July 7 2023, 17:00
