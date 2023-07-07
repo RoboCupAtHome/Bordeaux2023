@@ -26,6 +26,8 @@ First Team Leader Meeting at 15:00 in the DSPL Arena. Bring your own chair.
     + [GPSR](#gpsr)
 - [Stage 2](#stage-2)
     + [Clean the Table](#clean-the-table)
+    + [Stickler for the Rules](#stickler-for-the-rules)
+    + [EGPSR](#egpsr)
 
 ## Scores
 
