@@ -471,7 +471,7 @@ Teams will be allowed to pick a surface in the kitchen from where to grasp all t
 ## Stage 2
 
 ### Clean the Table
-Dishwasher tablet for Clean the Table. Available for training at OC table.
+Dishwasher tablet for Clean the Table. Available for training at OC table. Will be placed on the kitchen table (7)
 
 ![](https://github.com/RoboCupAtHome/Bordeaux2023/blob/master/objects/dishwashertab.JPG?)
 
