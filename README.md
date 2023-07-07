@@ -76,17 +76,17 @@ First Team Leader Meeting at 15:00 in the DSPL Arena. Bring your own chair.
 
 |     | Wed July 5 | Thu July 6 | Fri July 7 | Sat July 8 | Sun July 9 |
 |-----|------------|------------|------------|------------|------------|
-|09:00| Mapping    | Receptionist | GPSR | | |
-|10:00| Mapping    | Receptionist | GPSR | | |
-|11:00| | Receptionist | GPSR | | |
-|12:00| | | | | |
+|09:00| Mapping    | Receptionist | GPSR | Restaurant | |
+|10:00| Mapping    | Receptionist | GPSR | Restaurant | |
+|11:00| | Receptionist | GPSR | Restaurant | |
+|12:00| | | | Restaurant | |
 |13:00| | Storing Groceries | Serve Breakfast | | |
-|14:00| | Storing Groceries  | Serve Breakfast | | |
-|15:00| | Storing Groceries  | Serve Breakfast | | |
+|14:00| | Storing Groceries  | Serve Breakfast | Stickler for the Rules | |
+|15:00| | Storing Groceries  | Serve Breakfast | Stickler for the Rules | |
 |16:00| Opening Ceremony (Conference Area P2A) | | | | |
-|17:00| Poster / Robot Inspection | Carry my luggage | Clean the Table | | |
-|18:00|  | Carry my luggage | Clean the Table | | |
-|19:00| Team-Leader Meeting| Carry my luggage | | | |
+|17:00| Poster / Robot Inspection | Carry my luggage | Clean the Table | EGPSR | |
+|18:00|  | Carry my luggage | Clean the Table | EGPSR | |
+|19:00| Team-Leader Meeting| Carry my luggage | Team-Leader Meeting | Team-Leader Meeting | |
 |20:00| Reception (bring your own stuff) | Team-Leader Meeting | | | |
 
 ### Test Schedule July 7 (OPL Arena)
