@@ -549,4 +549,12 @@ Dishwasher tablet for Clean the Table. Available for training at OC table. Will 
 
 ![](https://github.com/RoboCupAtHome/Bordeaux2023/blob/master/objects/dishwashertab.JPG?)
 
+### Stickler for the Rules
+![](https://github.com/RoboCupAtHome/Bordeaux2023/blob/master/maps/stickler_for_the_rules.png?)
+
+Forbidden room is bedroom. Shoes need to be taken to the entrance or exit. Drinks are at assigned location (cabinet). Trash can be any official objects.
+
+### EGPSR
+![](https://github.com/RoboCupAtHome/Bordeaux2023/blob/master/maps/egpsr.png?)
+
 
