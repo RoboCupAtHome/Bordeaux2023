@@ -31,6 +31,54 @@ First Team Leader Meeting at 15:00 in the DSPL Arena. Bring your own chair.
 
 ## Scores
 
+Team rankings and total scores from stage 1 and stage 2
+
+OPL
+
+|    | Team Name (ranking)                   | Total scores (stage 1 and 2) |
+| -- | ------------------------------------- | ---------------------------- |
+| 1  | Tidyboy-OPL                           | 4805.25                      |
+| 2  | SocRob@Home                           | 2378                         |
+| 3  | CATIE Robotics                        | 2342                         |
+| 4  | NimbRo@Home                           | 1642.75                      |
+| 5  | Team of Bielefeld (ToBi)              | 1545.25                      |
+| 6  | RoboFEI@Home                          | 1429.5                       |
+| 7  | LAR@Home                              | 932                          |
+| 8  | Serious Cybernetics Corporation (SCC) | 486.75                       |
+| 9  | ButiaBots                             | 432                          |
+| 10 | KameRider OPL                         | 277.5                        |
+| 11 | LCASTOR                               | 270.5                        |
+| 12 | LyonTech                              | 35.5                         |
+| 13 | SOBITS                                | 29.5                         |
+| 14 | EIC Chula                             | 28.5                         |
+| 15 | Gentlebots                            | 26                           |
+
+DSPL
+
+|    | Team name (ranking)   | Total score (stage 1 and 2) |
+| -- | --------------------- | --------------------------- |
+| 1  | Tidyboy-DSPL          | 3,720.83                    |
+| 2  | Hibikino-Musashi@Home | 3,663.33                    |
+| 3  | TRAIL                 | 3,129.17                    |
+| 4  | Tech United Eindhoven | 2,379.17                    |
+| 5  | RoboCanes-VISAGE      | 1,492.50                    |
+| 6  | eR@sers+Pumas         | 1,450.83                    |
+| 7  | SUTURO-VaB            | 430.8333333                 |
+| 8  | UT Austin Villa@Home  | 423.3333333                 |
+| 9  | Team ORIon-UTBMan     | 88.33333333                 |
+| 10 | RUNSWEEP              | 30                          |
+| 11 | Team Northeastern     | 0                           |
+
+SSPL
+
+|   | Team name (ranking) | Stage 1 + 2 points |
+| - | ------------------- | ------------------ |
+| 1 | RoboBreizh          | 2,085.33           |
+| 2 | Sinfonia Uniandes   | 1,266.33           |
+| 3 | LiU@HomeWreckers    | 61                 |
+| 4 | SKUBA               | 54.00              |
+
+
 ### OPL Teams (1-8) in second stage
 
 ![RoboCupAtHome2023-OPL-2nd-Scores - Google Sheets](https://github.com/RoboCupAtHome/Bordeaux2023/assets/8225234/59c367a1-c196-44f9-a078-8ff67fcac79c)
@@ -46,48 +94,6 @@ First Team Leader Meeting at 15:00 in the DSPL Arena. Bring your own chair.
 ![RoboCupAtHome2023-SSPL-2nd-Scores - Google Sheets](https://github.com/RoboCupAtHome/Bordeaux2023/assets/8225234/6a8a8363-d097-4192-b6ef-9c435dd423f4)
 
 ![RoboCupAtHome2023-SSPL-Scores - Google Sheets](https://github.com/RoboCupAtHome/Bordeaux2023/assets/8225234/5ce3b9a5-2185-4158-887a-f26d78066554)
-
-### Test Scores
-
-| Team Name                             | Poster | Receptionist | Storing Groceries | Carry My Luggage | GPSR | Serving Breakfast | Stage 1 |    | Team Name (Ranking)                   | Stage 1  |
-| ------------------------------------- | ------ | ------------ | ----------------- | ---------------- | ---- | ----------------- | ------- | -- | ------------------------------------- | -------- |
-| ButiaBots                             | 32     | 300          | 0                 | 100              | 0    | 0                 | 432     | 1  | Tidyboy-OPL                           | 2,365.25 |
-| CATIE Robotics                        | 32     | 800          | 210               | 600              |      |                   | 1642    | 2  | CATIE Robotics                        | 1,642.00 |
-| EIC Chula                             | 28.5   | 0            | 0                 | 0                |      | 0                 | 28.5    | 3  | NimbRo@Home                           | 1,342.75 |
-| Gentlebots                            | 26     | 0            | 0                 | 0                |      | 0                 | 26      | 4  | SocRob@Home                           | 978.00   |
-| KameRider OPL                         | 27.5   | 250          | 0                 | 0                |      |                   | 277.5   | 5  | Team of Bielefeld (ToBi)              | 865.25   |
-| LAR@Home                              | 32     | 800          | 0                 | 0                |      |                   | 832     | 6  | LAR@Home                              | 832.00   |
-| LCASTOR                               | 30.5   | 150          | 90                | 0                |      |                   | 270.5   | 7  | RoboFEI@Home                          | 529.50   |
-| LyonTech                              | 35.5   | 0            | 0                 | 0                |      |                   | 35.5    | 8  | Serious Cybernetics Corporation (SCC) | 486.75   |
-| NimbRo@Home                           | 37.75  | 775          | 0                 | 500              |      | 30                | 1342.75 | 9  | ButiaBots                             | 432.00   |
-| RoboFEI@Home                          | 29.5   | 500          | 0                 | 0                | 0    | 0                 | 529.5   | 10 | KameRider OPL                         | 277.50   |
-| Serious Cybernetics Corporation (SCC) | 36.75  | 350          | 0                 | 100              | 0    | 0                 | 486.75  | 11 | LCASTOR                               | 120.50   |
-| SOBITS                                | 29.5   | 0            | 0                 | 0                |      | 0                 | 29.5    | 12 | LyonTech                              | 35.50    |
-| SocRob@Home                           | 28     | 550          |                   |                  | 400  | 0                 | 978     | 13 | SOBITS                                | 29.50    |
-| Team of Bielefeld (ToBi)              | 30.25  | 700          | 90                | 0                |      | 45                | 865.25  | 14 | EIC Chula                             | 28.50    |
-| Tidyboy-OPL                           | 25.25  | 800          | 690               | 100              |      | 750               | 2365.25 | 15 | Gentlebots                            | 26.00    |
-
-| Team Name             | Poster      | Receptionist | Storing Groceries | Carry My Luggage | GPSR | Serving Breakfast | Stage 1  | Clean the table | Restaurant | EGPSR | Stickler for the rules | Stage 2 | Stage 1+2 |
-| --------------------- | ----------- | ------------ | ----------------- | ---------------- | ---- | ----------------- | -------- | --------------- | ---------- | ----- | ---------------------- | ------- | --------- |
-| eR@sers+Pumas         | 30.83333333 | 400          | 220               | 600              | 0    | 0                 | 1,250.83 | 0               |            |       |                        | 0.00    | 1,250.83  |
-| Hibikino-Musashi@Home | 33.33333333 | 400          | 420               | 50               | 200  | 640               | 1,743.33 | 220             |            |       |                        | 220.00  | 1,963.33  |
-| RoboCanes-VISAGE      | 27.5        | 550          | 0                 | 0                | 0    | 15                | 592.50   | 0               |            |       |                        | 0.00    | 592.50    |
-| RUNSWEEP              | 30          | 0            | 0                 | 0                | 0    | 0                 | 30.00    |                 |            |       |                        | 0.00    | 30.00     |
-| SUTURO-VaB            | 30.83333333 | 0            | 0                 | 400              | 0    | 0                 | 430.83   |                 |            |       |                        | 0.00    | 430.83    |
-| Team Northeastern     | 0           | 0            | 0                 | 0                | 0    | 0                 | 0.00     |                 |            |       |                        | 0.00    | 0.00      |
-| Team ORIon-UTBMan     | 28.33333333 | 0            | 60                | 0                | 0    | 0                 | 88.33    |                 |            |       |                        | 0.00    | 88.33     |
-| Tech United Eindhoven | 29.16666667 | 500          | 410               | 0                | 0    | 440               | 1,379.17 | 0               |            |       |                        | 0.00    | 1,379.17  |
-| Tidyboy-DSPL          | 30.83333333 | 650          | 0                 | 100              | 400  | 680               | 1,860.83 | 760             |            |       |                        | 760.00  | 2,620.83  |
-| TRAIL                 | 29.16666667 | 0            | 90                | 100              | 300  | 810               | 1,329.17 | 300             |            |       |                        | 300.00  | 1,629.17  |
-| UT Austin Villa@Home  | 33.33333333 | 300          | 0                 | 0                | 0    | 90                | 423.33   |                 |            |       |                        | 0.00    | 423.33    |
-
-| Team name         | Poster | Receptionist | Storing Groceries | Carry My Luggage | GPSR | Serving Breakfast | Stage 1 |   | Team name         | Stage 1 |
-| ----------------- | ------ | ------------ | ----------------- | ---------------- | ---- | ----------------- | ------- | - | ----------------- | ------- |
-| LiU@HomeWreckers  | 30.00  | 0            | 0                 | 0                |      |                   | 30.00   | 1 | RoboBreizh        | 841.67  |
-| RoboBreizh        | 41.67  | 800          | 0                 | 0                | 0    | 0                 | 841.67  | 2 | Sinfonia Uniandes | 231.67  |
-| Sinfonia Uniandes | 31.67  | 200          | 0                 | 0                | 0    | 0                 | 231.67  | 3 | LiU@HomeWreckers  | 30.00   |
-| SKUBA             | 25.00  | 0            | 0                 | 0                | 0    | 0                 | 25.00   | 4 | SKUBA             | 25.00   |
-
 
 ## Schedule
 
