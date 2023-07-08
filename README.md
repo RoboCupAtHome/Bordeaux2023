@@ -57,7 +57,7 @@ First Team Leader Meeting at 15:00 in the DSPL Arena. Bring your own chair.
 | LyonTech                              | 35.5   | 0            | 0                 | 0                |      |                   | 35.5    | 8  | Serious Cybernetics Corporation (SCC) | 486.75   |
 | NimbRo@Home                           | 37.75  | 775          | 0                 | 500              |      | 30                | 1342.75 | 9  | ButiaBots                             | 432.00   |
 | RoboFEI@Home                          | 29.5   | 500          | 0                 | 0                | 0    | 0                 | 529.5   | 10 | KameRider OPL                         | 277.50   |
-| Serious Cybernetics Corporation (SCC) | 36.75  | 350          | 0                 | 100              | 0    | 0                 | 486.75  | 11 | LCASTOR                               | 120.50   |
+| Serious Cybernetics Corporation (SCC) | 36.75  | 350          | 0                 | 100              | 0    | 0                 | 486.75  | 11 | LCASTOR                               | 270.50   |
 | SOBITS                                | 29.5   | 0            | 0                 | 0                |      | 0                 | 29.5    | 12 | LyonTech                              | 35.50    |
 | SocRob@Home                           | 28     | 550          |                   |                  | 400  | 0                 | 978     | 13 | SOBITS                                | 29.50    |
 | Team of Bielefeld (ToBi)              | 30.25  | 700          | 90                | 0                |      | 45                | 865.25  | 14 | EIC Chula                             | 28.50    |
