@@ -41,7 +41,9 @@ First Team Leader Meeting at 15:00 in the DSPL Arena. Bring your own chair.
 
 ![RoboCupAtHome2023-DSPL-Scores - Google Sheets](https://github.com/RoboCupAtHome/Bordeaux2023/assets/8225234/1c22cd1f-c385-4341-be41-a664ea3404f4)
 
-### SSPL Teams (1,2,4) in second stage
+### SSPL Teams (1,2) in second stage
+
+![RoboCupAtHome2023-SSPL-2nd-Scores - Google Sheets](https://github.com/RoboCupAtHome/Bordeaux2023/assets/8225234/6a8a8363-d097-4192-b6ef-9c435dd423f4)
 
 ![RoboCupAtHome2023-SSPL-Scores - Google Sheets](https://github.com/RoboCupAtHome/Bordeaux2023/assets/8225234/5ce3b9a5-2185-4158-887a-f26d78066554)
 
