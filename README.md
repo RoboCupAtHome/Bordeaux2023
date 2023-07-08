@@ -33,6 +33,8 @@ First Team Leader Meeting at 15:00 in the DSPL Arena. Bring your own chair.
 
 ### OPL Teams (1-8) in second stage
 
+![RoboCupAtHome2023-OPL-2nd-Scores - Google Sheets](https://github.com/RoboCupAtHome/Bordeaux2023/assets/8225234/59c367a1-c196-44f9-a078-8ff67fcac79c)
+
 ![RoboCupAtHome2023-OPL-Scores - Google Sheets](https://github.com/RoboCupAtHome/Bordeaux2023/assets/8225234/b98e22ca-c088-461a-9d2c-ec40bc8ac526)
 
 ### DSPL Teams (1-6) in second stage
