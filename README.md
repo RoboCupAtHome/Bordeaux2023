@@ -97,10 +97,10 @@ First Team Leader Meeting at 15:00 in the DSPL Arena. Bring your own chair.
 |14:00| | Storing Groceries  | Serve Breakfast | Stickler for the Rules | |
 |15:00| | Storing Groceries  | Serve Breakfast | Stickler for the Rules | |
 |16:00| Opening Ceremony (Conference Area P2A) | | | | |
-|17:00| Poster / Robot Inspection | Carry my luggage | Clean the Table | EGPSR | |
+|17:00| Poster / Robot Inspection | Carry my luggage | Clean the Table |  | |
 |18:00|  | Carry my luggage | Clean the Table | EGPSR | |
-|19:00| Team-Leader Meeting| Carry my luggage | Team-Leader Meeting | Team-Leader Meeting | |
-|20:00| Reception (bring your own stuff) | Team-Leader Meeting | | | |
+|19:00| Team-Leader Meeting| Carry my luggage | EGPSR |  | |
+|20:00| Reception (bring your own stuff) | Team-Leader Meeting | Team-Leader Meetin | | |
 
 ### Test Schedule 2nd Stage July 8
 
@@ -129,7 +129,7 @@ First Team Leader Meeting at 15:00 in the DSPL Arena. Bring your own chair.
 
 #### Arena Tests (OPL Teams)
 
-| |Stickler for the rules 14:00|League/Arena|   ||EGPSR 17:00|League/Arena|
+| |Stickler for the rules 14:00|League/Arena|   ||EGPSR 18:00|League/Arena|
 |---|---|---|---|---|---|---|
 |1|LAR@Home|OPL||1|Team of Bielefeld (ToBi)|OPL|
 |2|Tidyboy-OPL|OPL||2|CATIE Robotics|OPL|
@@ -142,7 +142,7 @@ First Team Leader Meeting at 15:00 in the DSPL Arena. Bring your own chair.
 
 #### Arena Tests (DSPL Teams)
 
-| |Stickler for the rules 14:00|League/Arena|   ||EGPSR 17:00|League/Arena|
+| |Stickler for the rules 14:00|League/Arena|   ||EGPSR 18:00|League/Arena|
 |---|---|---|---|---|---|---|
 |1|TRAIL|DSPL||1|Tidyboy-DSPL|DSPL|
 |2|Tidyboy-DSPL|DSPL||2|eR@sers+Pumas|DSPL|
@@ -153,7 +153,7 @@ First Team Leader Meeting at 15:00 in the DSPL Arena. Bring your own chair.
 
 #### Arena Tests (SSPL Teams)
 
-| |Stickler for the rules 14:00|League/Arena|   ||EGPSR 17:00|League/Arena|
+| |Stickler for the rules 14:00|League/Arena|   ||EGPSR 18:00|League/Arena|
 |---|---|---|---|---|---|---|
 |1|Sinfonia Uniandes|SSPL||1|RoboBreizh|SSPL|
 |2|RoboBreizh|SSPL||2|Sinfonia Uniandes|SSPL|
