@@ -31,6 +31,20 @@ First Team Leader Meeting at 15:00 in the DSPL Arena. Bring your own chair.
 
 ## Scores
 
+### OPL Teams (1-8) in second stage
+
+![RoboCupAtHome2023-OPL-Scores - Google Sheets](https://github.com/RoboCupAtHome/Bordeaux2023/assets/8225234/9e91f19b-296b-4127-a827-7d4e821068a8)
+
+### DSPL Teams (1-6) in second stage
+
+![RoboCupAtHome2023-DSPL-Scores - Google Sheets](https://github.com/RoboCupAtHome/Bordeaux2023/assets/8225234/1c22cd1f-c385-4341-be41-a664ea3404f4)
+
+### SSPL Teams (1,2,4) in second stage
+
+![RoboCupAtHome2023-SSPL-Scores - Google Sheets](https://github.com/RoboCupAtHome/Bordeaux2023/assets/8225234/5ce3b9a5-2185-4158-887a-f26d78066554)
+
+### Test Scores
+
 | Team Name                             | Poster | Receptionist | Storing Groceries | Carry My Luggage | GPSR | Serving Breakfast | Stage 1 |    | Team Name (Ranking)                   | Stage 1  |
 | ------------------------------------- | ------ | ------------ | ----------------- | ---------------- | ---- | ----------------- | ------- | -- | ------------------------------------- | -------- |
 | ButiaBots                             | 32     | 300          | 0                 | 100              | 0    | 0                 | 432     | 1  | Tidyboy-OPL                           | 2,365.25 |
@@ -69,24 +83,6 @@ First Team Leader Meeting at 15:00 in the DSPL Arena. Bring your own chair.
 | RoboBreizh        | 41.67  | 800          | 0                 | 0                | 0    | 0                 | 841.67  | 2 | Sinfonia Uniandes | 231.67  |
 | Sinfonia Uniandes | 31.67  | 200          | 0                 | 0                | 0    | 0                 | 231.67  | 3 | LiU@HomeWreckers  | 30.00   |
 | SKUBA             | 25.00  | 0            | 0                 | 0                | 0    | 0                 | 25.00   | 4 | SKUBA             | 25.00   |
-
-Buy Me a Coffee at ko-fi.com
-
-### OPL Teams (1-8) in second stage
-
-![RoboCupAtHome2023-OPL-Scores - Google Sheets](https://github.com/RoboCupAtHome/Bordeaux2023/assets/8225234/9e91f19b-296b-4127-a827-7d4e821068a8)
-
-### DSPL Teams (1-6) in second stage
-
-![RoboCupAtHome2023-DSPL-Scores - Google Sheets](https://github.com/RoboCupAtHome/Bordeaux2023/assets/8225234/1c22cd1f-c385-4341-be41-a664ea3404f4)
-
-### SSPL Teams (1,2,4) in second stage
-
-![RoboCupAtHome2023-SSPL-Scores - Google Sheets](https://github.com/RoboCupAtHome/Bordeaux2023/assets/8225234/5ce3b9a5-2185-4158-887a-f26d78066554)
-
-### Test Scores
-
-
 
 
 ## Schedule
