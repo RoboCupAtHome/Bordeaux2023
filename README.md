@@ -45,46 +45,6 @@ First Team Leader Meeting at 15:00 in the DSPL Arena. Bring your own chair.
 
 ### Test Scores
 
-| Team Name (OPL) | Arena | Receptionist | Store groceries | Carry My Luggage | Serve Breakfast | GPSR | Team Poster |
-|-----------|-------|--------|---------| -------|--------|---------| -------|
-| NimbRo@Home (University of Bonn, Germany)	|	OPL | 700/775 | 0 | 150/500 |  |  | 37.75 |
-| EIC Chula(Chulalongkorn University, Thailand)	|	OPL | 0 | 0 | 0 |  |  | 28.5 |
-|SOBITS(Soka University of Japan, Japan) 	|	OPL | 0 | 0 | 0/0 |  |  | 29.5 |
-|CATIE Robotics (CATIE, France)	|	OPL| 400/800 | 0/210 | 600 |  |  | 32 |
-|Gentlebots (Universidad Rey Juan Carlos / Universidad de León, Spain) |	OPL | 0 | 0 | 0 |  |  | 26 |
-|Tidyboy-OPL(Pusan National University / Seoul National University, South Korea)	|	OPL | 800 | 690/480 | 100 |  |  | 25.25 |
-|LCASTOR(University of Lincoln, United Kingdom)	|	OPL| 0 | 90 | 0 |  |  | 30.5 |
-|LyonTech (CPE Lyon, INSA Lyon / INRIA / CHROMA, FRANCE)	|	OPL | 0/0 | 0 | 0 |  |  | 35.5 |
-|Team of Bielefeld (ToBi) (Bielefeld University, Germany)	|	OPL | 650/700 | 90/60 | 0/0 |  |  | 30.25 |
-|LAR@Home (University of Minho, Portugal)	|	OPL | 800/0 | 0 | 0 |  |  | 32 |
-|Serious Cybernetics Corporation (SCC)(Ravensburg Weingarten U.a.S., Germany)	|	SSPL/OPL | 300/350 | 0/0 | 50/100 |  |  | 36.75 |
-|SocRob@Home (Institute for Systems and Robotics/Instituto Superior Técnico, Portugal)	|	SSPL/OPL | 0/550 | 0/0 | 0 |  |  | 28 |
-|KameRider OPL(MyEdu-UTAR, Malaysia)	|	SSPL/OPL | 0/250 | 0/0 | 0/0 |  |  | 27.5 |
-|ButiaBots(Universidade Federal do Rio Grande, Brazil)	|	SSPL/OPL | 300/300 | 0/0 | 0/100 |  |  | 32 |
-|RoboFEI@Home(FEI University Center, Brazil)	|	SSPL/OPL | 400/500 | 0/0 | 0 |  |  | 29.5 |
-
-### DSPL Teams
-| Team Name (DSPL) | Arena | Receptionist | Store groceries | Carry My Luggage | Serve Breakfast | GPSR | Team Poster |
-|-----------|-------|--------|---------| -------|--------|---------| -------|
-| eR@sers+Pumas (Tamagawa University / UNAM, Japan / Mexico) | DSPL | 50/400 | 220/130 | 600 | 0 | 0 | 30.83 |
-| Hibikino-Musashi@Home (Kyushu Institute of Technology / University of Kitakyushu, Japan)| DSPL | 350/400 | 0/420 | 50/0 | 200/0 | 0/640 | 33.33 |
-| RoboCanes-VISAGE (University of Miami, USA)| DSPL | 0/550 | 0/0 | 0 | 0 | 15/0 | 27.5 |
-| RUNSWEEP (UNSW Sydney, Australia)| DSPL | 0 | 0 | 0 | 0 | 0 | 30 |
-| SUTURO-VaB (Universität Bremen / Universität Vienna, Germany / Austria)| DSPL | 0/0 | 0/0 | 400 | 0 | 0 | 30.83 |
-| Team Northeastern (Northeastern University, USA)| DSPL | 0 | 0 | 0 | 0 | 0 | 0 |
-| Team ORIon-UTBMan (University of Oxford/University of Technology of Belfort-Montebeliard, UK/France)| DSPL | 0/0 | 60/30 | 0/0 | 0 | 0 | 28.33 |
-| Tech United Eindhoven (Eindhoven University of Technology, The Netherlands)| DSPL | 450/500 | 410/260 | 0/0 | 0 | 0/440 | 29.15 |
-| Tidyboy-DSPL (Seoul National University/Pusan National University, South Korea)| DSPL | 0/650 | 0/0 | 0/100 | 400 | 0/680 | 30.83 |
-| TRAIL (The University of Tokyo, JAPAN)| DSPL | 0/0 | 60/90 | 100/100 | 0/300 | 350/810 | 29.16 |
-|UT Austin Villa@Home (University of Texas at Austin, USA)| DSPL | 0/300 | 0/0 | 0/0 | 0 | 60/90 | 33.33 |
-
-### SSPL Teams
-| Team Name (SSPL) | Arena |  Receptionist | Store groceries | Carry My Luggage | Serve Breakfast | GPSR | Team Poster |
-|-----------|-------|--------|---------| -------|--------|---------| -------|
-|LiU@HomeWreckers (Linköping University, Sweden)|OPL/SSPL| 0/0 | 0/0 | 0/0 |  |  | 30 |
-|RoboBreizh (CNRS/LAB-STICC/LITIS, France/Australia)|OPL/SSPL| 0/800 | 0/0 | 0/0 |  |  | 40.66 |
-|Sinfonia Uniandes (Universidad de los Andes, Colombia)|OPL/SSPL| 0/200 | 0/0 | 0/0 |  |  | 31.66 |
-|SKUBA(Kasetsart University, Thailand)|OPL/SSPL| 0/0 | 0/0 | 0/0 |  |  | 25 |
 
 
 
