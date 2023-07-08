@@ -99,7 +99,7 @@ First Team Leader Meeting at 15:00 in the DSPL Arena. Bring your own chair.
 |16:00| Opening Ceremony (Conference Area P2A) | | | | |
 |17:00| Poster / Robot Inspection | Carry my luggage | Clean the Table |  | |
 |18:00|  | Carry my luggage | Clean the Table | EGPSR | |
-|19:00| Team-Leader Meeting| Carry my luggage | EGPSR |  | |
+|19:00| Team-Leader Meeting| Carry my luggage |  | EGPSR | |
 |20:00| Reception (bring your own stuff) | Team-Leader Meeting | Team-Leader Meetin | | |
 
 ### Test Schedule 2nd Stage July 8
